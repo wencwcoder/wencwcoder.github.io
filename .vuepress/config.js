@@ -6,9 +6,9 @@ const plugins = require('./config/plugins');
 module.exports = {
   title: "wen",
   description: "Near, Far, Wherever You Are",
-  dest: "public",
+  dest: "dist",
   head: [
-    ["link", { rel: "icon", href: "/img/favicon.ico" }],
+    ["link", { rel: "icon", href: "/img/common/favicon.ico" }],
     ["meta", { name: "viewport", content: "width=device-width,initial-scale=1,user-scalable=no" }],
     ["script",
       {
@@ -42,14 +42,18 @@ module.exports = {
       }
     },
     friendLink,
-    logo: "/img/logo.png",
+    logo: "/img/common/logo.png",
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: "Last Updated",
     author: "wen",
-    authorAvatar: "/img/avatar.png",
+    authorAvatar: "/img/common/avatar.png",
     record: "xxxx",
-    startYear: "2021"
+    startYear: "2021",
+    repo: "https://github.com/wencwcoder/wencwcoder.github.io",
+    docsBranch: "main",
+    editLinks: true,
+    editLinkText: "在 GitHub 上编辑此页！"
   },
   plugins,
   markdown: {

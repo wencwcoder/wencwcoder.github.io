@@ -2,7 +2,7 @@
 home: true
 heroText: 遇见你是我奔赴所有的意义
 tagline: I've seen the sea and I've seen the stars but it's only you that I've been running for so long.
-# heroImage: /img/hero.png
+# heroImage: /img/common/hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
 #   width: '100%',
@@ -11,7 +11,7 @@ tagline: I've seen the sea and I've seen the stars but it's only you that I've b
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-# bgImage: /img/hero.png
+bgImage: /img/common/hero.png
 bgImageStyle: {
   height: '450px'
 }
@@ -26,3 +26,14 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
+
+
+<script>
+
+</script>
+
+<style>
+.hero {
+  color: #fff;
+}
+</style>

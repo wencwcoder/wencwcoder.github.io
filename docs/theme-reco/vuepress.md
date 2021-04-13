@@ -652,6 +652,14 @@ module.exports = {
 }
 ```
 
+可以通过 `YAML front matter` 来禁用指定页面的编辑链接：
+
+```markdown
+---
+editLink: false
+---
+```
+
 
 
 #### 页面滚动
