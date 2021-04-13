@@ -50,7 +50,7 @@ module.exports = {
     authorAvatar: "/img/common/avatar.png",
     record: "xxxx",
     startYear: "2021",
-    repo: "https://github.com/wencwcoder/wencwcoder.github.io",
+    // repo: "https://github.com/wencwcoder/wencwcoder.github.io",
     docsBranch: "main",
     editLinks: true,
     editLinkText: "在 GitHub 上编辑此页！"
