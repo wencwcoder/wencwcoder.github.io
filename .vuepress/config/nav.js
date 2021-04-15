@@ -1,17 +1,17 @@
 module.exports = [
   {
-    text: "Home",
+    text: "主页",
     link: "/",
     icon: "reco-home"
   },
   {
-    text: "TimeLine",
+    text: "时间线",
     link: "/timeline/",
     icon: "reco-date"
   },
   {
-    text: "Docs",
-    icon: "reco-message",
+    text: "随笔",
+    icon: "reco-suggestion",
     items: [
       {
         text: "vuepress-reco",
@@ -20,13 +20,23 @@ module.exports = [
     ]
   },
   {
-    text: "Contact",
+    text: "链接",
     icon: "reco-message",
     items: [
       {
         text: "GitHub",
         link: "https://github.com/wencwcoder",
         icon: "reco-github"
+      },
+      {
+        text: "掘金",
+        link: "https://juejin.cn/user/3878732754590797/activities",
+        icon: "reco-juejin"
+      },
+      {
+        text: "编程语言排行榜",
+        link: "https://www.tiobe.com/tiobe-index/",
+        icon: "reco-other"
       }
     ]
   }

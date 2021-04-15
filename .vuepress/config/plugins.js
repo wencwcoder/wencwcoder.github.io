@@ -11,5 +11,6 @@ module.exports = [
     tip: {
       content: "Copy success!"
     }
-  }]
+  }],
+  ["vuepress-plugin-reading-progress"]
 ]

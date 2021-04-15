@@ -13,7 +13,7 @@ tagline: I've seen the sea and I've seen the stars but it's only you that I've b
 # }
 bgImage: /img/common/hero.png
 bgImageStyle: {
-  height: '450px'
+  height: '520px'
 }
 isShowTitleInHome: false
 actionText: Guide
