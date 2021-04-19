@@ -14,8 +14,24 @@ module.exports = [
     icon: "reco-suggestion",
     items: [
       {
-        text: "vuepress-reco",
-        link: "/docs/theme-reco/"
+        text: "前端汇总",
+        link: "/blogs/frontEnd/"
+      },
+      {
+        text: "后端汇总",
+        link: "/blogs/backEnd/"
+      },
+      {
+        text: "面试题汇总",
+        link: "/blogs/interviewQuestions/"
+      },
+      {
+        text: "博客汇总",
+        link: "/blogs/blog/"
+      },
+      {
+        text: "小记",
+        link: "/docs/"
       }
     ]
   },

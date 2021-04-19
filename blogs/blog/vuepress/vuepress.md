@@ -126,7 +126,7 @@ sticky: 1
   默认主题的预定义变量: navbar: boolean / sidebar: boolean / prev: boolean / next: boolean /  search: boolean / tags: - 配置 - 主题 - 索引
   ```
 
-- 目录：输入  --  [[toc]]。
+- 目录：输入  --  `[[toc]]`。
 
 - 自定义容器：输入 （参考插件：vuepress-plugin-container ）
 

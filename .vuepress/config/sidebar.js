@@ -1,39 +1,51 @@
 module.exports = {
-  "/docs/theme-reco/": [
+  // "/blogs/": [
+  //   {
+  //     title: "前端",
+  //     collapsable: true,
+  //     children: [
+  //       "frontEnd/"
+  //     ]
+  //   },
+  //   {
+  //     title: "后端",
+  //     collapsable: true,
+  //     children: [
+  //       "backEnd/"
+  //     ]
+  //   },
+  //   {
+  //     title: "面试题",
+  //     collapsable: true,
+  //     children: [
+  //       "interviewQuestions/"
+  //     ]
+  //   },
+  //   {
+  //     title: "博客",
+  //     collapsable: true,
+  //     children: [
+  //       "blog/"
+  //     ]
+  //   }
+  // ],
+  "/blogs/frontEnd/": [
+    "",
     {
-      title: "其它",
-      collapsable: false,
+      title: "HTML",
+      collapsable: true,
       children: [
-        "",
-        "resources",
-        "vuepress",
-        "vuepress-theme-reco"
+        ""
+      ]
+    },
+  ],
+  "/docs/": [
+    {
+      title: "随笔",
+      collapsable: true,
+      children: [
+        ""
       ]
     }
   ],
-  "/blogs/": [
-    {
-      title: "cate1",
-      collapsable: true,
-      children: [
-        "category1/2018/121501",
-        "category1/2019/092101"
-      ]
-    },
-    {
-      title: "cate2",
-      collapsable: true,
-      children: [
-        "category2/2016/121501",
-        "category2/2017/092101"
-      ]
-    },
-    {
-      title: "other",
-      collapsable: true,
-      children: [
-        "other/guide"
-      ]
-    }
-  ]
 }
