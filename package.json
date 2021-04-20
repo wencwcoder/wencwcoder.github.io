@@ -7,8 +7,11 @@
     "build": "vuepress build ."
   },
   "devDependencies": {
+    "js-yaml": "^4.1.0",
     "moment": "^2.29.1",
     "vuepress": "1.8.2",
+    "vuepress-plugin-cursor-effects": "^1.0.2",
+    "vuepress-plugin-dynamic-title": "^1.0.0",
     "vuepress-plugin-nuggets-style-copy": "^1.0.3",
     "vuepress-plugin-reading-progress": "^1.0.10",
     "vuepress-theme-reco": "1.6.6"

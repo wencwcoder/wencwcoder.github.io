@@ -1,3 +1,11 @@
+---
+title: vuepress-summary
+date: 2021-04-10
+---
+
+<!-- more -->
+
+
 > 这是关于怎么开始写一篇文章的引导，以及博客中的分类介绍
 
 ## 编写博客的 Front Matter
@@ -34,7 +42,7 @@ demo
 
 1. 前端 frontEnd
 2. 后端 backEnd
-3. 面试题 interviewQuestions
+3. 面试 interview
 4. 博客 blog
 5. 随笔 essays
 

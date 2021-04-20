@@ -1,41 +1,44 @@
 module.exports = {
-  // "/blogs/": [
-  //   {
-  //     title: "前端",
-  //     collapsable: true,
-  //     children: [
-  //       "frontEnd/"
-  //     ]
-  //   },
-  //   {
-  //     title: "后端",
-  //     collapsable: true,
-  //     children: [
-  //       "backEnd/"
-  //     ]
-  //   },
-  //   {
-  //     title: "面试题",
-  //     collapsable: true,
-  //     children: [
-  //       "interviewQuestions/"
-  //     ]
-  //   },
-  //   {
-  //     title: "博客",
-  //     collapsable: true,
-  //     children: [
-  //       "blog/"
-  //     ]
-  //   }
-  // ],
   "/blogs/frontEnd/": [
     "",
+    // {
+    //   title: "HTML",
+    //   collapsable: true,
+    //   children: [
+    //     ""
+    //   ]
+    // },
+  ],
+  "/blogs/backEnd/": [
+    "",
+    // {
+    //   title: "xxx",
+    //   collapsable: true,
+    //   children: [
+    //     ""
+    //   ]
+    // },
+  ],
+  "/blogs/interview/": [
+    "",
+    // {
+    //   title: "xxx",
+    //   collapsable: true,
+    //   children: [
+    //     ""
+    //   ]
+    // },
+  ],
+  "/blogs/blog/": [
+    "",
     {
-      title: "HTML",
+      title: "vuepress",
       collapsable: true,
       children: [
-        ""
+        "vuepress/summary.md",
+        "vuepress/vuepress.md",
+        "vuepress/vuepress-theme-reco.md",
+        "vuepress/vuepress-theme-reco-plugins.md",
       ]
     },
   ],
