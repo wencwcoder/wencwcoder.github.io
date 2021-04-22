@@ -1,7 +1,7 @@
 {
-  "name": "demo",
+  "name": "blog",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "wen",
   "scripts": {
     "dev": "vuepress dev . --host \"localhost\"",
     "build": "vuepress build ."
@@ -17,5 +17,5 @@
     "vuepress-plugin-reading-progress": "^1.0.10",
     "vuepress-theme-reco": "1.6.6"
   },
-  "description": "demo"
+  "description": "blog"
 }
