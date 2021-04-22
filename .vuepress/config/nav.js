@@ -30,7 +30,7 @@ module.exports = [
         link: "/blogs/blog/"
       },
       {
-        text: "小记",
+        text: "随笔",
         link: "/docs/"
       }
     ]
@@ -52,7 +52,10 @@ module.exports = [
       {
         text: "编程语言排行榜",
         link: "https://www.tiobe.com/tiobe-index/",
-        icon: "reco-other"
+      },
+      {
+        text: "Codelf",
+        link: "https://unbug.github.io/codelf/",
       }
     ]
   }

@@ -1,6 +1,10 @@
 ---
 title: vuepress-theme-reco-plugins
-date: 2021-04-20
+date: 2021-04-10
+categories:
+ - 博客
+tags:
+ - vuepress
 ---
 
 <!-- more -->

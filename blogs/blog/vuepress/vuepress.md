@@ -1,7 +1,10 @@
 ---
 title: vuepress
 date: 2021-04-10
-sticky: 1
+categories:
+ - 博客
+tags:
+ - vuepress
 ---
 
 <!-- more -->

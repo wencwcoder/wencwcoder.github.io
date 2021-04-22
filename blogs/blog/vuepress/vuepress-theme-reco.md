@@ -1,7 +1,10 @@
 ---
 title: vuepress-theme-reco
 date: 2021-04-10
-sticky: 2
+categories:
+ - 博客
+tags:
+ - vuepress
 ---
 
 <!-- more -->

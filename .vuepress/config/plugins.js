@@ -24,5 +24,9 @@ module.exports = [
     size: 2,
     shape: "star", // ['star' | 'circle']
     zIndex: 999999999
+  }],
+  ["@vuepress-reco/vuepress-plugin-kan-ban-niang", {
+    theme: ["wanko"], // ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
+    clean: true
   }]
 ]
