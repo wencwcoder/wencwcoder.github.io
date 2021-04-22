@@ -21,13 +21,20 @@ module.exports = {
   ],
   "/blogs/interview/": [
     "",
-    // {
-    //   title: "xxx",
-    //   collapsable: true,
-    //   children: [
-    //     ""
-    //   ]
-    // },
+    {
+      title: "面试题型",
+      collapsable: true,
+      children: [
+        "topic/210422.md"
+      ]
+    },
+    {
+      title: "面试资源",
+      collapsable: true,
+      children: [
+        "resource/210422.md"
+      ]
+    },
   ],
   "/blogs/blog/": [
     "",
