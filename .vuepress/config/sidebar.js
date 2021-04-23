@@ -29,7 +29,7 @@ module.exports = {
       ]
     },
     {
-      title: "阅读资源",
+      title: "资源阅读",
       collapsable: true,
       children: [
         "resource/210422.md"
@@ -48,6 +48,27 @@ module.exports = {
         "vuepress/vuepress-theme-reco-plugins.md",
       ]
     },
+    {
+      title: "工具推荐",
+      collapsable: true,
+      children: [
+        // ""
+      ]
+    },
+    {
+      title: "文章阅读",
+      collapsable: true,
+      children: [
+        "article/210423.md"
+      ]
+    },
+    {
+      title: "有趣项目",
+      collapsable: true,
+      children: [
+        // ""
+      ]
+    }
   ],
   "/docs/": [
     "",

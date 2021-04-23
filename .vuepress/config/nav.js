@@ -10,7 +10,7 @@ module.exports = [
     icon: "reco-date"
   },
   {
-    text: "随笔",
+    text: "汇总",
     icon: "reco-suggestion",
     items: [
       {

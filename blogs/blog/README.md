@@ -7,13 +7,15 @@ tags:
  - 汇总
 ---
 
+:::tip
+博客汇总主要是用于收集网络上好用的工具、好的博客文章、有趣的项目等等，尽量每篇都会注明来源
+:::
+
 <!-- more -->
 
 
 
 ## vuepress
-
-> Vue 驱动的静态网站生成器
 
 [summary](/blogs/blog/vuepress/summary.md)
 
@@ -22,3 +24,14 @@ tags:
 [vuepress-theme-reco](/blogs/blog/vuepress/vuepress-theme-reco.md)
 
 [vuepress-theme-reco-plugins](/blogs/blog/vuepress/vuepress-theme-reco-plugins.md)
+
+
+
+## 工具推荐
+
+
+
+## 文章阅读
+
+[前端人该如何持续学习](/blogs/blog/article/210423.md)
+
