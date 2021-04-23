@@ -22,14 +22,14 @@ module.exports = {
   "/blogs/interview/": [
     "",
     {
-      title: "面试题型",
+      title: "面试题",
       collapsable: true,
       children: [
         "topic/210422.md"
       ]
     },
     {
-      title: "面试资源",
+      title: "阅读资源",
       collapsable: true,
       children: [
         "resource/210422.md"
