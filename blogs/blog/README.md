@@ -17,13 +17,12 @@ tags:
 
 ## vuepress
 
-[summary](/blogs/blog/vuepress/summary.md)
+- [summary](/blogs/blog/vuepress/summary.md)
+- [vuepress](/blogs/blog/vuepress/vuepress.md)
 
-[vuepress](/blogs/blog/vuepress/vuepress.md)
+- [vuepress-theme-reco](/blogs/blog/vuepress/vuepress-theme-reco.md)
 
-[vuepress-theme-reco](/blogs/blog/vuepress/vuepress-theme-reco.md)
-
-[vuepress-theme-reco-plugins](/blogs/blog/vuepress/vuepress-theme-reco-plugins.md)
+- [vuepress-theme-reco-plugins](/blogs/blog/vuepress/vuepress-theme-reco-plugins.md)
 
 
 
@@ -33,5 +32,5 @@ tags:
 
 ## 文章阅读
 
-[前端人该如何持续学习](/blogs/blog/article/210423.md)
+- [前端人该如何持续学习](/blogs/blog/article/210423.md)
 

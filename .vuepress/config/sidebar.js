@@ -8,13 +8,13 @@ module.exports = {
     //     ""
     //   ]
     // },
-    // {
-    //   title: "JavaScript",
-    //   collapsable: true,
-    //   children: [
-    //     ""
-    //   ]
-    // },
+    {
+      title: "JavaScript",
+      collapsable: true,
+      children: [
+        "javascript/210427.md"
+      ]
+    },
   ],
   "/blogs/backEnd/": [
     "",

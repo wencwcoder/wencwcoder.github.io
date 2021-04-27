@@ -13,10 +13,10 @@ tags:
 
 ## 面试题
 
-1. [面试题型(无答案)](/blogs/interview/topic/210422.md)
+- [面试题型(无答案)](/blogs/interview/topic/210422.md)
 
 
 
 ## 阅读资源
 
-1. [字节跳动飞书文档简历与面试说明](/blogs/interview/resource/210422.md)
+- [字节跳动飞书文档简历与面试说明](/blogs/interview/resource/210422.md)
