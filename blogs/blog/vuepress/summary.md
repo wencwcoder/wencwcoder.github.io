@@ -58,7 +58,8 @@ demo
 本博客标签主要是基于分类进行细分的，现有的标签有以下一些：
 
 1.  *HTML(5) & CSS(3)*
-3.  *JavaScript*
+2.  *JavaScript*
+3.  *TypeScript*
 4.  *浏览器*
 5.  *性能*
 6.  *工程化*
