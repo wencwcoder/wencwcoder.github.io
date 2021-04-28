@@ -28,5 +28,27 @@ module.exports = [
   ["@vuepress-reco/vuepress-plugin-kan-ban-niang", {
     theme: ["wanko"], // ['blackCat', 'whiteCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'wanko', 'miku', 'z16']
     clean: true
+  }],
+  ['@vuepress-reco/vuepress-plugin-bgm-player', {
+    audios: [
+      // 本地文件示例
+      {
+        name: '莫问归期',
+        artist: '蒋雪儿',
+        url: '/bgm-player/莫问归期.mp3',
+        cover: '/bgm-player/莫问归期.png'
+      },
+      // 网络文件示例
+      // {
+      //   name: 'xxx',
+      //   artist: 'xxx',
+      //   url: 'https://xxx/xxx.mp3',
+      //   cover: 'https://xxx/xxx.jpg'
+      // }
+    ],
+    position: { left: '10px', bottom: '10px', 'z-index': '999999', borderRadius: '20px'},
+    autoShrink: true,
+    shrinkMode: "float",
+    floatPosition: "left"
   }]
 ]
