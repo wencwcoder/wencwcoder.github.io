@@ -14,6 +14,7 @@ module.exports = {
       children: [
         "javascript/210427.md",
         "javascript/210429.md",
+        "javascript/210505.md",
       ]
     },
   ],
