@@ -38,6 +38,12 @@ module.exports = [
         url: '/bgm-player/莫问归期.mp3',
         cover: '/bgm-player/莫问归期.png'
       },
+      {
+        name: 'I won’t let you go',
+        artist: '王帝',
+        url: '/bgm-player/I won’t let you go.mp3',
+        cover: '/bgm-player/I won’t let you go.png'
+      },
       // 网络文件示例
       // {
       //   name: 'xxx',
