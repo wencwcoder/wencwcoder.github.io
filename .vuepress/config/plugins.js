@@ -39,11 +39,17 @@ module.exports = [
         cover: '/bgm-player/莫问归期.png'
       },
       {
-        name: 'I won’t let you go',
+        name: 'I-Wont-Let-You-Go',
         artist: '王帝',
-        url: '/bgm-player/I won’t let you go.mp3',
-        cover: '/bgm-player/I won’t let you go.png'
+        url: '/bgm-player/I-Wont-Let-You-Go.mp3',
+        cover: '/bgm-player/I-Wont-Let-You-Go.png'
       },
+      {
+        name: '彩虹',
+        artist: '周杰伦',
+        url: '/bgm-player/彩虹.mp3',
+        cover: '/bgm-player/彩虹.png'
+      }
       // 网络文件示例
       // {
       //   name: 'xxx',
