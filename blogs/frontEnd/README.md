@@ -19,13 +19,15 @@ tags:
 
 ## JavaScript
 
-- [JavaScript中几个优雅的运算符使用技巧](/blogs/frontEnd/javascript/210427.md)
+- [几个优雅的运算符使用技巧](/blogs/frontEnd/javascript/210427.md)
 
 - [带你搞懂 this](/blogs/frontEnd/javascript/210429.md)
 
 - [call-apply-bind](/blogs/frontEnd/javascript/210505.md)
 
 - [深浅拷贝](/blogs/frontEnd/javascript/210507.md)
+
+- [async-await](/blogs/frontEnd/javascript/210512.md)
 
   
 

@@ -16,6 +16,7 @@ module.exports = {
         "javascript/210429.md",
         "javascript/210505.md",
         "javascript/210507.md",
+        "javascript/210512.md",
       ]
     },
   ],
