@@ -22,10 +22,6 @@ module.exports = [
         link: "/blogs/backEnd/"
       },
       {
-        text: "面试汇总",
-        link: "/blogs/interview/"
-      },
-      {
         text: "博客汇总",
         link: "/blogs/blog/"
       },

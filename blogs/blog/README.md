@@ -7,17 +7,22 @@ tags:
  - 汇总
 ---
 
-:::tip
-博客汇总主要是用于收集网络上好用的工具、好的博客文章、有趣的项目等等，尽量每篇都会注明来源
-:::
-
 <!-- more -->
+
+
+
+:::tip
+
+博客汇总主要是用于收集网络上好的博客文章、实用的工具、有趣的项目、面试题等等，尽量每篇都会注明来源
+
+:::
 
 
 
 ## vuepress
 
 - [summary](/blogs/blog/vuepress/summary.md)
+
 - [vuepress](/blogs/blog/vuepress/vuepress.md)
 
 - [vuepress-theme-reco](/blogs/blog/vuepress/vuepress-theme-reco.md)
@@ -26,11 +31,14 @@ tags:
 
 
 
-## 工具推荐
-
-
-
 ## 文章阅读
+
+- [字节跳动飞书文档简历与面试说明](/blogs/blog/article/210422.md)
 
 - [前端人该如何持续学习](/blogs/blog/article/210423.md)
 
+
+
+## 面试资源
+
+- [面试题型(无答案)](/blogs/blog/interview/210422.md)

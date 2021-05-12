@@ -30,23 +30,6 @@ module.exports = {
     //   ]
     // },
   ],
-  "/blogs/interview/": [
-    "",
-    {
-      title: "面试题",
-      collapsable: true,
-      children: [
-        "topic/210422.md"
-      ]
-    },
-    {
-      title: "资源阅读",
-      collapsable: true,
-      children: [
-        "resource/210422.md"
-      ]
-    },
-  ],
   "/blogs/blog/": [
     "",
     {
@@ -60,26 +43,34 @@ module.exports = {
       ]
     },
     {
-      title: "工具推荐",
-      collapsable: true,
-      children: [
-        // ""
-      ]
-    },
-    {
       title: "文章阅读",
       collapsable: true,
       children: [
-        "article/210423.md"
+        "article/210422.md",
+        "article/210423.md",
       ]
     },
+    // {
+    //   title: "工具推荐",
+    //   collapsable: true,
+    //   children: [
+    //     // ""
+    //   ]
+    // },
+    // {
+    //   title: "有趣项目",
+    //   collapsable: true,
+    //   children: [
+    //     // ""
+    //   ]
+    // }
     {
-      title: "有趣项目",
+      title: "面试资源",
       collapsable: true,
       children: [
-        // ""
+        "interview/210422.md"
       ]
-    }
+    },
   ],
   "/docs/": [
     "",
