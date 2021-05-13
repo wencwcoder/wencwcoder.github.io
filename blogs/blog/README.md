@@ -33,12 +33,14 @@ tags:
 
 ## 文章阅读
 
-- [字节跳动飞书文档简历与面试说明](/blogs/blog/article/210422.md)
-
 - [前端人该如何持续学习](/blogs/blog/article/210423.md)
 
 
 
 ## 面试资源
+
+- [字节跳动飞书文档--简历与面试](/blogs/blog/article/210423.md)
+
+- [字节跳动飞书文档--模拟题](/blogs/blog/article/210513.md)
 
 - [面试题型(无答案)](/blogs/blog/interview/210422.md)

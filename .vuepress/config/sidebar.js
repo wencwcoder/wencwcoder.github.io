@@ -46,7 +46,6 @@ module.exports = {
       title: "文章阅读",
       collapsable: true,
       children: [
-        "article/210422.md",
         "article/210423.md",
       ]
     },
@@ -68,7 +67,9 @@ module.exports = {
       title: "面试资源",
       collapsable: true,
       children: [
-        "interview/210422.md"
+        "interview/210423.md",
+        "interview/210513.md",
+        "interview/210422.md",
       ]
     },
   ],
