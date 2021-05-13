@@ -32,6 +32,7 @@ module.exports = {
   ],
   "/blogs/blog/": [
     "",
+    "Link.md",
     {
       title: "vuepress",
       collapsable: true,
