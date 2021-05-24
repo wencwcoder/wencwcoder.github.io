@@ -35,6 +35,8 @@ tags:
 
 - [前端人该如何持续学习](/blogs/blog/article/210423.md)
 
+- [前端职业规划2021年](/blogs/blog/article/210524.md)
+
 
 
 ## 面试资源

@@ -57,6 +57,7 @@ module.exports = {
       collapsable: true,
       children: [
         "article/210423.md",
+        "article/210524.md",
       ]
     },
     // {
