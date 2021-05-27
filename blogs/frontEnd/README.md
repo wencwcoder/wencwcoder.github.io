@@ -40,4 +40,6 @@ tags:
 
 - [Vue路由过渡动效](/blogs/frontEnd/vue/210518.md)
 
+- [Vue小技巧](/blogs/frontEnd/vue/210527.md)
+
   
