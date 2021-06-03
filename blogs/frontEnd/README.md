@@ -22,6 +22,8 @@ tags:
 
 - [JavaScript基础](/blogs/frontEnd/javascript/210520.md)
 
+- [JavaScript基础问题](/blogs/frontEnd/javascript/210603.md)
+
 - [JavaScript实用方法](/blogs/frontEnd/javascript/210521.md)
 
 - [几个优雅的运算符使用技巧](/blogs/frontEnd/javascript/210427.md)
