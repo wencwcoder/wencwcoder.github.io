@@ -33,30 +33,18 @@ module.exports = [
     audios: [
       // 本地文件示例
       {
-        name: '莫问归期',
-        artist: '蒋雪儿',
-        url: '/bgm-player/莫问归期.mp3',
-        cover: '/bgm-player/莫问归期.png'
-      },
-      {
-        name: 'I-Wont-Let-You-Go',
-        artist: '王帝',
-        url: '/bgm-player/I-Wont-Let-You-Go.mp3',
-        cover: '/bgm-player/I-Wont-Let-You-Go.png'
-      },
-      {
         name: '彩虹',
         artist: '周杰伦',
         url: '/bgm-player/彩虹.mp3',
         cover: '/bgm-player/彩虹.png'
-      }
+      },
       // 网络文件示例
-      // {
-      //   name: 'xxx',
-      //   artist: 'xxx',
-      //   url: 'https://xxx/xxx.mp3',
-      //   cover: 'https://xxx/xxx.jpg'
-      // }
+      {
+        name: '春娇与志明',
+        artist: '街道办GDC,欧阳耀莹',
+        url: 'http://218.205.239.34/MIGUM2.0/v1.0/content/sub/listenSong.do?toneFlag=HQ&netType=00&copyrightId=0&contentId=600908000007717854&resourceType=2&channel=0',
+        cover: 'http://d.musicapp.migu.cn/prod/file-service/file-down/b1899d500dda5db2da11df3efc89cba6/7228be0347a2cf256ecbe9a677d0f583/0ba655390593f2e6df9328b3b7c42786'
+      }
     ],
     position: { left: '10px', bottom: '10px', 'z-index': '999999', borderRadius: '20px'},
     autoShrink: true,
