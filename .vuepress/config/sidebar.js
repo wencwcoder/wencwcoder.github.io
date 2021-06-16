@@ -2,7 +2,7 @@ module.exports = {
   "/blogs/frontEnd/": [
     "",
     {
-      title: "HTML(5) & CSS(3)",
+      title: "HTML5_CSS3",
       collapsable: true,
       children: [
         "html5-css3/210518.md"
