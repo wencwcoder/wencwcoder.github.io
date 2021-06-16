@@ -5,7 +5,7 @@ const plugins = require('./config/plugins');
 
 module.exports = {
   title: "wen",
-  description: "Near, Far, Wherever You Are",
+  description: "ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ",
   dest: "dist",
   head: [
     ["link", {

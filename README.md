@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 遇见你是我奔赴所有的意义
-tagline: I've seen the sea and I've seen the stars but it's only you that I've been running for so long.
+heroText: (～￣▽￣)～
+tagline: ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ
 # heroImage: /img/common/hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
