@@ -28,6 +28,7 @@ module.exports = {
       children: [
         "vue/210518.md",
         "vue/210527.md",
+        "vue/210709.md",
       ]
     },
   ],
