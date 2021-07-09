@@ -87,7 +87,7 @@ categories：所属分类。
 
 tags：所属标签。
 
-keys：文章加密密码。
+keys：文章加密密码。【[md5 tool](http://tool.chinaz.com/tools/md5.aspx)】
 
 publish：文章是否发布。
 

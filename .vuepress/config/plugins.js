@@ -42,7 +42,7 @@ module.exports = [
       {
         name: '春娇与志明',
         artist: '街道办GDC,欧阳耀莹',
-        url: 'https://sharefs.yun.kugou.com/202106211007/7ae05b6f271ea1f7f35bf938d714ff8e/G103/M04/17/09/pw0DAFmHMvaAYEGUADKtDpsRafg450.mp3',
+        url: 'https://sharefs.ali.kugou.com/202107091117/10a8ff36266b6bd00675e25f6ae3939d/G103/M04/17/09/pw0DAFmHMvaAYEGUADKtDpsRafg450.mp3',
         cover: 'http://d.musicapp.migu.cn/prod/file-service/file-down/b1899d500dda5db2da11df3efc89cba6/7228be0347a2cf256ecbe9a677d0f583/0ba655390593f2e6df9328b3b7c42786'
       }
     ],
