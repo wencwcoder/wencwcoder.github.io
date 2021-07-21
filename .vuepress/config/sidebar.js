@@ -101,7 +101,8 @@ module.exports = {
       title: "极客时间",
       collapsable: true,
       children: [
-        "geek/210622.md"
+        "geek/210622.md",
+        "geek/210721.md",
       ]
     }
   ],
