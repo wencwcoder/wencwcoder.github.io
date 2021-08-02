@@ -32,6 +32,13 @@ module.exports = {
         "vue/210709.md",
       ]
     },
+    {
+      title: "React",
+      collapsable: true,
+      children: [
+        "react/210802.md",
+      ]
+    },
   ],
   "/blogs/backEnd/": [
     "",

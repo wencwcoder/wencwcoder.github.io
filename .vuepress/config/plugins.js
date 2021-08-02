@@ -40,10 +40,10 @@ module.exports = [
       },
       // 网络文件示例
       {
-        name: '春娇与志明',
-        artist: '街道办GDC,欧阳耀莹',
-        url: 'https://sharefs.ali.kugou.com/202107091117/10a8ff36266b6bd00675e25f6ae3939d/G103/M04/17/09/pw0DAFmHMvaAYEGUADKtDpsRafg450.mp3',
-        cover: 'http://d.musicapp.migu.cn/prod/file-service/file-down/b1899d500dda5db2da11df3efc89cba6/7228be0347a2cf256ecbe9a677d0f583/0ba655390593f2e6df9328b3b7c42786'
+        name: '给我一首歌的时间',
+        artist: '周杰伦',
+        url: 'http://cf.sycdn.kuwo.cn/849bac419841951508cca93ddf8953df/6107a887/resource/n2/58/67/746838450.mp3',
+        cover: 'http://d.musicapp.migu.cn/prod/file-service/file-down/8121e8df41a5c12f48b69aea89b71dab/a74c911aea1ad2584c294b0b70e45455/5145c5ce8c4f080a95bd4e6f99c707ea'
       }
     ],
     position: { left: '10px', bottom: '10px', 'z-index': '999999', borderRadius: '20px'},
