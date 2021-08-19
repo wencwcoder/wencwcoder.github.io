@@ -15,6 +15,8 @@ tags:
 
 - [昨天 今天 明天](/docs/essays/210422.md)
 
+- [Philosophy](/docs/essays/210819.md)
+
 
 
 ## 极客时间

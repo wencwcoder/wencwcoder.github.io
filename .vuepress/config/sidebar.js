@@ -101,7 +101,8 @@ module.exports = {
       title: "随笔",
       collapsable: true,
       children: [
-        "essays/210422.md"
+        "essays/210422.md",
+        "essays/210819.md",
       ]
     },
     {
