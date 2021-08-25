@@ -24,7 +24,9 @@ categories:
 
 ## 工具
 
-
+- Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
+- Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
+- Shields.io：[https://shields.io/](https://shields.io/)（徽章）
 
 
 

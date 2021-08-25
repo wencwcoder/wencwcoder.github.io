@@ -48,10 +48,6 @@ module.exports = [
       {
         text: "编程语言排行榜",
         link: "https://www.tiobe.com/tiobe-index/",
-      },
-      {
-        text: "Codelf",
-        link: "https://unbug.github.io/codelf/",
       }
     ]
   }
