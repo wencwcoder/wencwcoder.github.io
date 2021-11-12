@@ -40,6 +40,7 @@ categories:
 - Coverr.co：[https://coverr.co/](https://coverr.co/)（视频资源）
 - Pexels：[https://www.pexels.com/zh-cn/](https://www.pexels.com/zh-cn/)（图片视频资源）
 - Unsplash：[https://unsplash.com/](https://unsplash.com/)（图片资源）
+- 404fun：[https://error404.fun/](https://error404.fun/)（404图片资源）
 - Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
 - Neumorphism.io：[https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)（css 生成器--阴影）
 - Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（css 生成器--边框圆角）
