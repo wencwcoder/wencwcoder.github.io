@@ -42,8 +42,10 @@ module.exports = [
       {
         name: '这世界那么多人',
         artist: '莫文蔚',
-        url: 'http://m801.music.126.net/20220209104517/666d5230413433218f718bb12f95717b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/8769185057/af96/4500/b786/7fa49f0c842b6009f36b99400a9fb596.mp3',
-        cover: 'http://p1.music.126.net/LOTxqRjFm03VJEOHJbUqMw==/109951165944804127.jpg?param=300x300'
+        url: 'https://github.com/wencwcoder/learning-library/raw/master/musics/%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%20-%20%E8%8E%AB%E6%96%87%E8%94%9A.mp3',
+        // url: 'http://m801.music.126.net/20220209104517/666d5230413433218f718bb12f95717b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/8769185057/af96/4500/b786/7fa49f0c842b6009f36b99400a9fb596.mp3',
+        cover: 'https://raw.githubusercontent.com/wencwcoder/learning-library/master/musics/%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%20-%20%E8%8E%AB%E6%96%87%E8%94%9A.png'
+        // cover: 'http://p1.music.126.net/LOTxqRjFm03VJEOHJbUqMw==/109951165944804127.jpg?param=300x300'
       }
     ],
     position: { left: '10px', bottom: '10px', 'z-index': '999999', borderRadius: '20px'},
