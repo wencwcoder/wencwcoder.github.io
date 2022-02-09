@@ -50,5 +50,31 @@ module.exports = [
     autoShrink: true,
     shrinkMode: "float",
     floatPosition: "left"
-  }]
+  }],
+  // ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
+  //   width: '260px',
+  //   title: '公告',
+  //   body: [
+  //     {
+  //       type: 'title',
+  //       content: '新增加一个插件来玩玩👻',
+  //       style: 'text-aligin: center;'
+  //     },
+  //     // {
+  //     //   type: 'image',
+  //     //   src: '/img/common/avatar.png'
+  //     // },
+  //     // {
+  //     //   type: 'text',
+  //     //   content: '可以有简单的文本'
+  //     // }
+  //   ],
+  //   footer: [
+  //     {
+  //       type: 'button',
+  //       text: '打赏',
+  //       link: '/blogs/blog/Donate.md'
+  //     }
+  //   ]
+  // }]
 ]
