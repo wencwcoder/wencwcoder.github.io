@@ -40,10 +40,10 @@ module.exports = [
       },
       // 网络文件示例
       {
-        name: '给我一首歌的时间',
-        artist: '周杰伦',
-        url: 'http://cf.sycdn.kuwo.cn/849bac419841951508cca93ddf8953df/6107a887/resource/n2/58/67/746838450.mp3',
-        cover: 'http://d.musicapp.migu.cn/prod/file-service/file-down/8121e8df41a5c12f48b69aea89b71dab/a74c911aea1ad2584c294b0b70e45455/5145c5ce8c4f080a95bd4e6f99c707ea'
+        name: '这世界那么多人',
+        artist: '莫文蔚',
+        url: 'http://m801.music.126.net/20220209104517/666d5230413433218f718bb12f95717b/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/8769185057/af96/4500/b786/7fa49f0c842b6009f36b99400a9fb596.mp3',
+        cover: 'http://p1.music.126.net/LOTxqRjFm03VJEOHJbUqMw==/109951165944804127.jpg?param=300x300'
       }
     ],
     position: { left: '10px', bottom: '10px', 'z-index': '999999', borderRadius: '20px'},
