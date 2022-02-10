@@ -71,26 +71,13 @@ module.exports = {
         "article/210524.md",
       ]
     },
-    // {
-    //   title: "工具推荐",
-    //   collapsable: true,
-    //   children: [
-    //     // ""
-    //   ]
-    // },
-    // {
-    //   title: "有趣项目",
-    //   collapsable: true,
-    //   children: [
-    //     // ""
-    //   ]
-    // }
     {
       title: "面试资源",
       collapsable: true,
       children: [
         "interview/210423.md",
         "interview/210513.md",
+        "interview/220210.md",
         "interview/210422.md",
       ]
     },
