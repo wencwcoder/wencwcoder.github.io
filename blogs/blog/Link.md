@@ -10,15 +10,28 @@ categories:
 
 
 :::tip
-该模块主要是用来记录一些链接，包括优质文章、项目、工具、官方地址
+该模块主要是用来记录一些链接，包括优质文章、项目、用于学习的网址、工具、官方地址
 :::
 
 
 
 ## 文章 / 项目
 
-- 冴羽的 GitHub：[GitHub](https://github.com/mqyqingfeng)（博客文章、原生轮子）
-- Dashnowords 的 GitHub：[GitHub](https://github.com/dashnowords)
+- 冴羽的 GitHub：[GitHub](https://github.com/mqyqingfeng)（个人博客、原生轮子）
+- Dashnowords 的 GitHub：[GitHub](https://github.com/dashnowords)（个人博客）
+- HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
+- Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
+- Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
+
+
+
+## 学习网址
+
+- 阮一峰的网络日志：[http://www.ruanyifeng.com/blog/archives.html](http://www.ruanyifeng.com/blog/archives.html)
+- 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
+- IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
+- 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
+- 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
 
 
 
@@ -51,6 +64,10 @@ categories:
 - Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
 - DevDocs：[https://devdocs.io/](https://devdocs.io/)（Web 开发技术文档）
 - Dribbble：[https://dribbble.com/](https://dribbble.com/)（设计灵感）
+- resume：[https://visiky.github.io/resume/?mode=edit](https://visiky.github.io/resume/?mode=edit)（在线简历生成器）
+- 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
+- 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
+- TextKool： [https://textkool.com/en](https://textkool.com/en/ascii-art-generator?hl=default&vl=default&font=Red%20Phoenix&text=Your%20text%20here%20)（ASCII art generator，console 字体）
 
 
 
