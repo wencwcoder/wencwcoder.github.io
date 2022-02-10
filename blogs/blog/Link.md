@@ -17,11 +17,14 @@ categories:
 
 ## 文章 / 项目
 
-- 冴羽的 GitHub：[GitHub](https://github.com/mqyqingfeng)（个人博客、原生轮子）
-- Dashnowords 的 GitHub：[GitHub](https://github.com/dashnowords)（个人博客）
+- 冴羽：[GitHub](https://github.com/mqyqingfeng)（个人博客、原生轮子）
+- 大史 -- Dashnowords：[GitHub](https://github.com/dashnowords)（个人博客）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
+- Online-books/moyu：[GitHub](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
+- EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
+- 刘博文 -- Berwin：[GitHub](https://github.com/berwin/Blog)（个人博客）
 
 
 
@@ -32,6 +35,8 @@ categories:
 - IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
 - 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
 - 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
+- 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
+- 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 
 
 
@@ -68,6 +73,8 @@ categories:
 - 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
 - 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
 - TextKool： [https://textkool.com/en](https://textkool.com/en/ascii-art-generator?hl=default&vl=default&font=Red%20Phoenix&text=Your%20text%20here%20)（ASCII art generator，console 字体）
+- TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
+- buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 
 
 
