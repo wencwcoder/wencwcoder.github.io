@@ -60,5 +60,10 @@ module.exports = {
   plugins,
   markdown: {
     lineNumbers: true
+  },
+  locales: {
+    '/': {
+      lang: 'zh-CN', 
+    }
   }
 }
