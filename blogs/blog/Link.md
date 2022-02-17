@@ -39,6 +39,15 @@ categories:
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 - 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
 - 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
+- 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
+
+
+
+## 官方地址
+
+- React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
+- npm 安装文档：[http://caibaojian.com/npm/](http://caibaojian.com/npm/)）（npm 中文网）
+- npm Docs：[https://docs.npmjs.com/](https://docs.npmjs.com/)（npm 注册表、网站和命令行界面的文档）
 
 
 
@@ -77,10 +86,4 @@ categories:
 - TextKool： [https://textkool.com/en](https://textkool.com/en/ascii-art-generator?hl=default&vl=default&font=Red%20Phoenix&text=Your%20text%20here%20)（ASCII art generator，console 字体）
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
-
-
-
-## 官方地址
-
-- React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
 
