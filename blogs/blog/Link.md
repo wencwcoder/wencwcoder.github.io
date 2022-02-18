@@ -40,6 +40,8 @@ categories:
 - 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
 - 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
+- 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
+- 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
 
 
 
