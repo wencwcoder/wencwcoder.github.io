@@ -42,6 +42,8 @@ tags:
 
 - [async-await](/blogs/frontEnd/javascript/210512.md)
 
+- [节流防抖](/blogs/frontEnd/javascript/220220.md)
+
   
 
 ## Vue
