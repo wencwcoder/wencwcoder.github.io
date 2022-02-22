@@ -79,6 +79,7 @@ categories:
 - Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（css 生成器--边框圆角）
 - Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（css 生成器--图片裁剪）
 - Animista：[https://animista.net/](https://animista.net/)（css 生成器--图动画效果）
+- CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（css 生成器--过渡效果）
 - Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
 - Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
 - Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
