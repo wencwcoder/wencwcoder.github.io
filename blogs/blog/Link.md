@@ -91,4 +91,5 @@ categories:
 - TextKool： [https://textkool.com/en](https://textkool.com/en/ascii-art-generator?hl=default&vl=default&font=Red%20Phoenix&text=Your%20text%20here%20)（ASCII art generator，console 字体）
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
+- Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
 
