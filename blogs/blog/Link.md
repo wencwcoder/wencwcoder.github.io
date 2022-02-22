@@ -25,6 +25,7 @@ categories:
 - Online-books/moyu：[GitHub](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
 - EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
 - 刘博文 -- Berwin：[GitHub](https://github.com/berwin/Blog)（个人博客）
+- 抽奖程序：[GitHub](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
 
 
 
