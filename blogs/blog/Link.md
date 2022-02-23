@@ -39,6 +39,7 @@ categories:
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 - 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客）
+- 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[github](https://github.com/wangtunan)）
 - 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
 - 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
