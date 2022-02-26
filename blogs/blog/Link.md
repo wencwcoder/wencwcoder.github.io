@@ -95,4 +95,5 @@ categories:
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 - Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
+- 酷壳CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
 
