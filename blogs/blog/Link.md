@@ -61,6 +61,7 @@ categories:
 - TypeScript：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
+- Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
 
 
 
