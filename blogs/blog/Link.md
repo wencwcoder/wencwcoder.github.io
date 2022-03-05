@@ -48,6 +48,7 @@ categories:
 - 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
 - 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
+- OSCHINA：[https://www.oschina.net/](https://www.oschina.net/)
 
 
 
