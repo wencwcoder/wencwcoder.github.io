@@ -26,8 +26,11 @@ categories:
 - Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
 - Online-books/moyu：[GitHub](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
 - EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
-
 - 抽奖程序：[GitHub](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
+- freeCodeCamp：[GitHub](https://github.com/freeCodeCamp/freeCodeCamp)（免费学习编码的开源代码库和课程）
+- LeetcodeTop：[GitHub](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
+- algorithm-visualizer：[GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
+- hello-algorithm：[GitHub](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
 
 
 
