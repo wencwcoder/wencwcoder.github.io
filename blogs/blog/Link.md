@@ -67,6 +67,7 @@ categories:
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
+- Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
 
 
 
