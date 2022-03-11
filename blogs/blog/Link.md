@@ -76,7 +76,13 @@ categories:
 
 ## 摸鱼
 
-- 
+- 游戏 -- 在线 DOS 游戏：[https://dos.zczc.cz/](https://dos.zczc.cz/)（JavaScript 小游戏）
+- 游戏 -- Vampire Survivors：[https://poncle.itch.io/vampire-survivors](https://poncle.itch.io/vampire-survivors)（像素游戏 -- 吸血鬼幸存者）
+- 游戏-- 小霸王集合：[https://www.yikm.net/](https://www.yikm.net/)（小霸王，其乐无穷。愿我们找回童年的快乐）
+- 游戏 -- 召唤神龙：[https://www.ajisun.fun/dragon/](https://www.ajisun.fun/dragon/)
+- 游戏 -- 魔方栈：[https://huazhechen.gitee.io/cuber/](https://huazhechen.gitee.io/cuber/)（在线扭魔方）
+- FUUN.FUN：[https://fuun.fun/](https://fuun.fun/)（奇趣网站收藏家）
+- 摸摸鱼热榜：[https://momoyu.cc/](https://momoyu.cc/)（主流站点的热榜，作者大友的[博客](https://peal.cc/)，有十几篇文章）
 
 
 
@@ -118,5 +124,6 @@ categories:
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 - Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
-- 酷壳CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
+- 酷壳 CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
+- Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
 
