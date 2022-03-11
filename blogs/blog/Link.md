@@ -15,12 +15,15 @@ categories:
 
 
 
-## 文章 / 项目
+## 开源学习 / 项目 / 文章
 
-- 冴羽：[GitHub](https://github.com/mqyqingfeng)（个人博客、原生轮子）
-- 大史 -- Dashnowords：[GitHub](https://github.com/dashnowords)（个人博客）
-- 刘博文 -- Berwin：[GitHub](https://github.com/berwin/Blog)（个人博客）
-- ssh：[GitHub](https://github.com/sl1673495)（个人博客，算法题）
+- 冴羽：[https://github.com/mqyqingfeng](https://github.com/mqyqingfeng)（个人博客、原生轮子）
+- 大史 -- Dashnowords：[https://github.com/dashnowords](https://github.com/dashnowords)（个人博客）
+- 刘博文 -- Berwin：[https://github.com/berwin](https://github.com/berwin)（个人博客）
+- ssh：[https://github.com/sl1673495](https://github.com/sl1673495)（个人博客，算法题）
+- 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客，[https://github.com/linbudu599](https://github.com/linbudu599)）
+- 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
+- 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[https://github.com/wangtunan](https://github.com/wangtunan)）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
@@ -31,7 +34,6 @@ categories:
 - LeetcodeTop：[GitHub](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
 - algorithm-visualizer：[GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
 - hello-algorithm：[GitHub](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
-- 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
 
 
 
@@ -43,20 +45,20 @@ categories:
 - 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
 - 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
+- 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
-- 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客）
-- 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[github](https://github.com/wangtunan)）
+
 - 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
 - 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
 - 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
 - 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
-- 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
+
 - OSCHINA：[https://www.oschina.net/](https://www.oschina.net/)
 
 
 
-## 官方地址
+## 官方网址
 
 - MDN Web Docs：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 - React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
@@ -69,6 +71,12 @@ categories:
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
 - Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
+
+
+
+## 摸鱼
+
+- 
 
 
 
