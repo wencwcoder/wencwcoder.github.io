@@ -83,6 +83,7 @@ categories:
 - 游戏 -- 魔方栈：[https://huazhechen.gitee.io/cuber/](https://huazhechen.gitee.io/cuber/)（在线扭魔方）
 - FUUN.FUN：[https://fuun.fun/](https://fuun.fun/)（奇趣网站收藏家）
 - 摸摸鱼热榜：[https://momoyu.cc/](https://momoyu.cc/)（主流站点的热榜，作者大友的[博客](https://peal.cc/)，有十几篇文章）
+- 别摸鱼导航：[https://biemoyu.com/#term-32](https://biemoyu.com/#term-32)（网站导航）
 
 
 
