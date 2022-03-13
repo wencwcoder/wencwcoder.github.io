@@ -126,5 +126,7 @@ categories:
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 - Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
 - 酷壳 CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
+- 站酷 ZCOOL：[https://www.zcool.com.cn/home](https://www.zcool.com.cn/home)（设计师互动平台 - 打开站酷，发现更好的设计）
 - Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
+- 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
 
