@@ -37,6 +37,8 @@ tags:
 
 - [前端职业规划2021年](/blogs/blog/article/210524.md)
 
+- [配置文件结尾的"rc"是什么意思](/blogs/blog/article/220314.md)
+
 
 
 ## 面试资源
