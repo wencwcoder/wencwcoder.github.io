@@ -66,6 +66,7 @@ categories:
 - Vue3.x：[https://v3.cn.vuejs.org/guide/introduction.html](https://v3.cn.vuejs.org/guide/introduction.html)
 - npm 安装文档：[http://caibaojian.com/npm/](http://caibaojian.com/npm/)）（npm 中文网）
 - npm Docs：[https://docs.npmjs.com/](https://docs.npmjs.com/)（npm 注册表、网站和命令行界面的文档）
+- Jest：[https://jestjs.io/zh-Hans/](https://jestjs.io/zh-Hans/)（一款优雅、简洁的 JavaScript 测试框架）
 - TypeScript：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
