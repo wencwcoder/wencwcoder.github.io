@@ -71,6 +71,7 @@ categories:
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
+- Lodash 中文文档：[https://www.lodashjs.com/](https://www.lodashjs.com/)（一致性、模块化、高性能的 JavaScript 实用工具库）
 - Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
 
 
