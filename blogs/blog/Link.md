@@ -67,6 +67,7 @@ categories:
 - Vite 中文网：[https://vitejs.cn/](https://vitejs.cn/)（下一代前端开发与构建工具）
 - npm 安装文档：[http://caibaojian.com/npm/](http://caibaojian.com/npm/)）（npm 中文网）
 - npm Docs：[https://docs.npmjs.com/](https://docs.npmjs.com/)（npm 注册表、网站和命令行界面的文档）
+- npmmirror 中国镜像站：[https://npmmirror.com/](https://npmmirror.com/)
 - Jest：[https://jestjs.io/zh-Hans/](https://jestjs.io/zh-Hans/)（一款优雅、简洁的 JavaScript 测试框架）
 - TypeScript：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
