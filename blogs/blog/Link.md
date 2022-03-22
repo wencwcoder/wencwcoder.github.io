@@ -24,6 +24,7 @@ categories:
 - 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客，[https://github.com/linbudu599](https://github.com/linbudu599)）
 - 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
 - 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[https://github.com/wangtunan](https://github.com/wangtunan)）
+- JerryQu：[https://imququ.com/](https://imququ.com/)（个人博客）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
