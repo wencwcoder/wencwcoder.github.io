@@ -57,6 +57,8 @@ categories:
 
 - OSCHINA：[https://www.oschina.net/](https://www.oschina.net/)
 
+- HitUP：[https://hitup.wondertools.top/#/](https://hitup.wondertools.top/#/)（Find Top Things）
+
 
 
 ## 官方网址
