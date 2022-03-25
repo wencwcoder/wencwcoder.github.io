@@ -10,12 +10,18 @@ categories:
 
 
 :::tip
-该模块主要是用来记录一些链接，包括优质文章、项目、用于学习的网址、工具、官方地址
+主要是来收录一些链接，包括优质文章、优质开发者、开源项目，以及用于学习的网址、工具、官方地址
 :::
 
 
 
-## 开源学习 / 项目 / 文章
+## 优质文章
+
+
+
+
+
+## 优质开发者、开源项目
 
 - 冴羽：[https://github.com/mqyqingfeng](https://github.com/mqyqingfeng)（个人博客、原生轮子）
 - 大史 -- Dashnowords：[https://github.com/dashnowords](https://github.com/dashnowords)（个人博客）
@@ -27,14 +33,14 @@ categories:
 - JerryQu：[https://imququ.com/](https://imququ.com/)（个人博客）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
-- Weekly：[GitHub](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
-- Online-books/moyu：[GitHub](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
+- Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
+- Online-books：[https://github.com/online-books/moyu](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
 - EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
 - 抽奖程序：[GitHub](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
-- freeCodeCamp：[GitHub](https://github.com/freeCodeCamp/freeCodeCamp)（免费学习编码的开源代码库和课程）
-- LeetcodeTop：[GitHub](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
-- algorithm-visualizer：[GitHub](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
-- hello-algorithm：[GitHub](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
+- freeCodeCamp：[https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)（免费学习编码的开源代码库和课程）
+- LeetcodeTop：[https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
+- algorithm-visualizer：[https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
+- hello-algorithm：[https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
 
 
 
