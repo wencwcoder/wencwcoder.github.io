@@ -31,6 +31,7 @@ categories:
 - 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
 - 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[https://github.com/wangtunan](https://github.com/wangtunan)）
 - JerryQu：[https://imququ.com/](https://imququ.com/)（个人博客）
+- 鱼皮：[https://github.com/liyupi](https://github.com/liyupi)（全栈攻城狮）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
@@ -54,16 +55,15 @@ categories:
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
-
 - 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
 - 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
 - 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
 - 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
-
 - OSCHINA：[https://www.oschina.net/](https://www.oschina.net/)
-
 - HitUP：[https://hitup.wondertools.top/#/](https://hitup.wondertools.top/#/)（Find Top Things）
+- 编程导航：[https://www.code-nav.cn/](https://www.code-nav.cn/)（发现优质编程学习资源，鱼皮主导，力荐）
+- 前端学习路线：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)（标签、卡片的形式，点击查看具体信息）
 
 
 
