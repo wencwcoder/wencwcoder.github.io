@@ -32,6 +32,7 @@ categories:
 - 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[https://github.com/wangtunan](https://github.com/wangtunan)）
 - JerryQu：[https://imququ.com/](https://imququ.com/)（个人博客）
 - 鱼皮：[https://github.com/liyupi](https://github.com/liyupi)（全栈攻城狮）
+- 木易杨：[https://muyiy.cn/blog/](https://muyiy.cn/blog/)（前端进阶博文，一些问答 [https://github.com/Advanced-Frontend](https://github.com/Advanced-Frontend)）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
@@ -64,6 +65,7 @@ categories:
 - HitUP：[https://hitup.wondertools.top/#/](https://hitup.wondertools.top/#/)（Find Top Things）
 - 编程导航：[https://www.code-nav.cn/](https://www.code-nav.cn/)（发现优质编程学习资源，鱼皮主导，力荐）
 - 前端学习路线：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)（标签、卡片的形式，点击查看具体信息）
+- MiniApp Standardization White Paper：[https://w3c.github.io/miniapp/white-paper/](https://w3c.github.io/miniapp/white-paper/)（w3c 小程序）
 
 
 
