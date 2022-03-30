@@ -74,7 +74,8 @@ categories:
 - MDN Web Docs：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 - React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
 - Vue2.x：[https://cn.vuejs.org/v2/guide/index.html](https://cn.vuejs.org/v2/guide/index.html)
-- Vue3.x：[https://v3.cn.vuejs.org/guide/introduction.html](https://v3.cn.vuejs.org/guide/introduction.html)
+- Vue3.x 旧版：[https://v3.cn.vuejs.org/guide/introduction.html](https://v3.cn.vuejs.org/guide/introduction.html)
+- Vue3.x 新版：[https://staging-cn.vuejs.org/](https://staging-cn.vuejs.org/)
 - Vite 中文网：[https://vitejs.cn/](https://vitejs.cn/)（下一代前端开发与构建工具）
 - npm 安装文档：[http://caibaojian.com/npm/](http://caibaojian.com/npm/)）（npm 中文网）
 - npm Docs：[https://docs.npmjs.com/](https://docs.npmjs.com/)（npm 注册表、网站和命令行界面的文档）
