@@ -26,6 +26,8 @@ tags:
 
 ## JavaScript
 
+- [JavaScript知识整理](/blogs/frontEnd/javascript/220406.md)
+
 - [JavaScript代码小技巧](/blogs/frontEnd/javascript/210521.md)
 
 - [JavaScript基础](/blogs/frontEnd/javascript/210520.md)

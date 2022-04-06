@@ -15,6 +15,7 @@ module.exports = {
       title: "JavaScript",
       collapsable: true,
       children: [
+        "javascript/220406.md",
         "javascript/210521.md",
         "javascript/210520.md",
         "javascript/210603.md",
