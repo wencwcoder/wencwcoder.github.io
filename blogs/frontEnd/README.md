@@ -66,5 +66,5 @@ tags:
 
 ## 前端工程化
 
-- [Vite 实践](/blogs/frontEnd/engineering/220318.md)
+- [Vite](/blogs/frontEnd/engineering/220318.md)
 
