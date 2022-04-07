@@ -67,6 +67,7 @@ categories:
 - 前端学习路线：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)（标签、卡片的形式，点击查看具体信息）
 - MiniApp Standardization White Paper：[https://w3c.github.io/miniapp/white-paper/](https://w3c.github.io/miniapp/white-paper/)（w3c 小程序）
 - HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
+- 职级对标：[https://www.duibiao.info/](https://www.duibiao.info/)（提高薪酬职级透明度）
 
 
 
@@ -147,4 +148,5 @@ categories:
 - Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
 - 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
 - Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
+- Regex Vis：[https://regex-vis.com/](https://regex-vis.com/)（正则表达式可视化器和编辑器）
 
