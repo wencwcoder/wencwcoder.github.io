@@ -52,6 +52,7 @@ categories:
 - 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
 - IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
 - 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
+- 政采云前端小报：[https://weekly.zoo.team/](https://weekly.zoo.team/)
 - 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
