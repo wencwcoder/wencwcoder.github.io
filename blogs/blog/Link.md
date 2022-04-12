@@ -74,6 +74,7 @@ categories:
 ## 官方网址
 
 - MDN Web Docs：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
+- Node.js：[https://nodejs.org/en/](https://nodejs.org/en/)
 - React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
 - Vue2.x：[https://cn.vuejs.org/v2/guide/index.html](https://cn.vuejs.org/v2/guide/index.html)
 - Vue3.x 旧版：[https://v3.cn.vuejs.org/guide/introduction.html](https://v3.cn.vuejs.org/guide/introduction.html)
