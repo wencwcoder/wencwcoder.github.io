@@ -69,6 +69,7 @@ categories:
 - MiniApp Standardization White Paper：[https://w3c.github.io/miniapp/white-paper/](https://w3c.github.io/miniapp/white-paper/)（w3c 小程序）
 - HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
 - 职级对标：[https://www.duibiao.info/](https://www.duibiao.info/)（提高薪酬职级透明度）
+- 数学乐：[https://www.shuxuele.com/](https://www.shuxuele.com/)
 
 
 
