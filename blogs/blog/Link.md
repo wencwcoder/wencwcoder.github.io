@@ -43,6 +43,7 @@ categories:
 - LeetcodeTop：[https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
 - algorithm-visualizer：[https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
 - hello-algorithm：[https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
+- 前端经验总结：[https://github.com/woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)（带你入门前端工程）
 
 
 
