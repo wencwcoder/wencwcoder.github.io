@@ -68,7 +68,7 @@ categories:
 - 编程导航：[https://www.code-nav.cn/](https://www.code-nav.cn/)（发现优质编程学习资源，鱼皮主导，力荐）
 - 前端学习路线：[https://objtube.github.io/front-end-roadmap/#/](https://objtube.github.io/front-end-roadmap/#/)（标签、卡片的形式，点击查看具体信息）
 - MiniApp Standardization White Paper：[https://w3c.github.io/miniapp/white-paper/](https://w3c.github.io/miniapp/white-paper/)（w3c 小程序）
-- HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
+
 - 职级对标：[https://www.duibiao.info/](https://www.duibiao.info/)（提高薪酬职级透明度）
 - 数学乐：[https://www.shuxuele.com/](https://www.shuxuele.com/)
 
@@ -106,6 +106,8 @@ categories:
 - FUUN.FUN：[https://fuun.fun/](https://fuun.fun/)（奇趣网站收藏家）
 - 摸摸鱼热榜：[https://momoyu.cc/](https://momoyu.cc/)（主流站点的热榜，作者大友的[博客](https://peal.cc/)，有十几篇文章）
 - 别摸鱼导航：[https://biemoyu.com/#term-32](https://biemoyu.com/#term-32)（网站导航）
+- HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
+- HowToLiveLonger：[https://github.com/geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)（程序员延寿指南）
 
 
 
