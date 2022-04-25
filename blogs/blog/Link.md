@@ -71,6 +71,7 @@ categories:
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 - Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
+- 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
 
 
 
