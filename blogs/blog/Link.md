@@ -67,12 +67,12 @@ categories:
 - MiniApp Standardization White Paper：[https://w3c.github.io/miniapp/white-paper/](https://w3c.github.io/miniapp/white-paper/)（w3c 小程序）
 - 职级对标：[https://www.duibiao.info/](https://www.duibiao.info/)（提高薪酬职级透明度）
 - 数学乐：[https://www.shuxuele.com/](https://www.shuxuele.com/)
+- acwing：[https://www.acwing.com/](https://www.acwing.com/)
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 - Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
 - 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
-- test
 
 
 
