@@ -69,6 +69,8 @@ categories:
 - 数学乐：[https://www.shuxuele.com/](https://www.shuxuele.com/)
 - acwing：[https://www.acwing.com/](https://www.acwing.com/)
 - pdai.tech：[https://pdai.tech/](https://pdai.tech/)（Java 全栈知识体系）
+- awesome-coding-js：[http://www.conardli.top/docs/](http://www.conardli.top/docs/)（用 JavaScript 实现的算法和数据结构）
+- freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
 - padding：[https://fe.padding.me/#/](https://fe.padding.me/#/)（前端面试题集锦 - by paddingme）
 - 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
 - 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
