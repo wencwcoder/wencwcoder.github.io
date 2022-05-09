@@ -49,6 +49,12 @@ categories:
 
 ## 学习网址
 
+- 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
+- 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
+- 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
+- Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
+- 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
+- 山月：[https://q.shanyue.tech/](https://q.shanyue.tech/)（互联网大厂面试题每日一题）
 - 阮一峰的网络日志：[http://www.ruanyifeng.com/blog/archives.html](http://www.ruanyifeng.com/blog/archives.html)
 - 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
 - IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
@@ -72,12 +78,6 @@ categories:
 - awesome-coding-js：[http://www.conardli.top/docs/](http://www.conardli.top/docs/)（用 JavaScript 实现的算法和数据结构）
 - freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
 - padding：[https://fe.padding.me/#/](https://fe.padding.me/#/)（前端面试题集锦 - by paddingme）
-- 大圣前端学习：[https://shengxinjing.cn/](https://shengxinjing.cn/)（大圣前端编程自学网）
-- 张鑫旭：[https://www.zhangxinxu.com/](https://www.zhangxinxu.com/)
-- 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
-- Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
-- 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
-- 山月：[https://q.shanyue.tech/](https://q.shanyue.tech/)（互联网大厂面试题每日一题）
 
 
 
