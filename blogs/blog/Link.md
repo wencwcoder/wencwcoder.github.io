@@ -99,6 +99,7 @@ categories:
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
 - Lodash 中文文档：[https://www.lodashjs.com/](https://www.lodashjs.com/)（一致性、模块化、高性能的 JavaScript 实用工具库）
+- Ramda：[https://ramdajs.com/](https://ramdajs.com/)、[https://ramda.cn/](https://ramda.cn/)（一款实用的 JavaScript 函数式编程库）
 - Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
 
 
