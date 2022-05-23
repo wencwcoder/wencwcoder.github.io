@@ -61,8 +61,8 @@ categories:
 - 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
 - 政采云前端小报：[https://weekly.zoo.team/](https://weekly.zoo.team/)
 - 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
-- 语雀 -- 前端早早聊：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（语雀收藏）
-- 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（官网）
+- 前端早早聊 -- 语雀：[https://www.yuque.com/dashboard/collections](https://www.yuque.com/dashboard/collections)（前端早早聊语雀收藏）
+- 前端早早聊：[https://www.zaozao.run/](https://www.zaozao.run/)（前端早早聊官网）
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
 - 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
 - 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
