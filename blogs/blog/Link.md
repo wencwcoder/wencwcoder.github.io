@@ -97,6 +97,7 @@ categories:
 - TypeScript：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
+- rollup.js：[https://rollupjs.org/guide/en/](https://rollupjs.org/guide/en/)、[https://www.rollupjs.com/](https://www.rollupjs.com/)（ JavaScript 模块打包器）
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
 - Lodash 中文文档：[https://www.lodashjs.com/](https://www.lodashjs.com/)（一致性、模块化、高性能的 JavaScript 实用工具库）
 - Ramda：[https://ramdajs.com/](https://ramdajs.com/)、[https://ramda.cn/](https://ramda.cn/)（一款实用的 JavaScript 函数式编程库）
