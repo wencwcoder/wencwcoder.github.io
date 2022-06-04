@@ -54,6 +54,7 @@ categories:
 - 技术胖：[http://jspang.com/](http://jspang.com/)（因为美好的东西都是免费的，比如水、阳光和空气，所以本站视频全部免费）
 - Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
 - 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
+- 李传个人网站 ---鸥鹭：[https://oulu.me/](https://oulu.me/)（前端个人网站，有很多有创意的小东西）
 - 山月：[https://q.shanyue.tech/](https://q.shanyue.tech/)（互联网大厂面试题每日一题）
 - 阮一峰的网络日志：[http://www.ruanyifeng.com/blog/archives.html](http://www.ruanyifeng.com/blog/archives.html)
 - 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
@@ -150,7 +151,8 @@ categories:
 - Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（css 生成器--边框圆角）
 - Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（css 生成器--图片裁剪）
 - Animista：[https://animista.net/](https://animista.net/)（css 生成器--图动画效果）
-- CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（css 生成器--过渡效果）
+- CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（css 生成器--过渡效果，按钮、加载）
+- color.oulu.me：[https://color.oulu.me/](https://color.oulu.me/)（css 生成器--渐变背景）
 - Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
 - Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
 - Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
