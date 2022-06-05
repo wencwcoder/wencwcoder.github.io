@@ -78,8 +78,9 @@ categories:
 - pdai.tech：[https://pdai.tech/](https://pdai.tech/)（Java 全栈知识体系）
 - awesome-coding-js：[http://www.conardli.top/docs/](http://www.conardli.top/docs/)（用 JavaScript 实现的算法和数据结构）
 - freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
+- Medium：[https://medium.com/](https://medium.com/)（Where good ideas find you）
+- DEV Community：[https://dev.to/](https://dev.to/)（开发者社区，有点像掘金）
 - padding：[https://fe.padding.me/#/](https://fe.padding.me/#/)（前端面试题集锦 - by paddingme）
-- test
 
 
 
@@ -107,7 +108,6 @@ categories:
 - Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
 - Viser：[https://viserjs.github.io/](https://viserjs.github.io/)（使用Viser进行可视化，让你的数据变得更加直观）
 - iconfont：[https://www.iconfont.cn/](https://www.iconfont.cn/)（阿里巴巴矢量图标库）
-- Medium：[https://medium.com/](https://medium.com/)（Where good ideas find you）
 
 
 
