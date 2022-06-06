@@ -138,6 +138,7 @@ categories:
 - 机场：翼游 -- [官网](https://www.google.com/url?q=https%3A%2F%2Fdlj.tf%2Fjb7tT7z&sa=D&sntz=1&usg=AFQjCNG8vcMCWigFq1W03y5n5EvAUE6iQA)
 - 机场：星梦数据 -- [官网](https://www.google.com/url?q=https%3A%2F%2Fdlj.tf%2FD4xNx5Z&sa=D&sntz=1&usg=AFQjCNE7R1nuB52yMFsNtnmPqhASlOTFUQ)
 - 机场：HutaoCloud -- [https://hutao.cloud/](https://hutao.cloud/)
+- 机场：Shadowsocks -- [https://portal.shadowsocks.nz/](https://portal.shadowsocks.nz/)
 - Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
 - Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
 - Shields.io：[https://shields.io/](https://shields.io/)（徽章）
