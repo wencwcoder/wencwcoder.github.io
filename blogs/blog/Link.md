@@ -175,4 +175,5 @@ categories:
 - 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
 - Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
 - Regex Vis：[https://regex-vis.com/](https://regex-vis.com/)（正则表达式可视化器和编辑器）
+- Slidev：[https://sli.dev/](https://sli.dev/)（基于Web的幻灯片制作和演示工具）
 
