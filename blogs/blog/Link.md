@@ -10,7 +10,7 @@ categories:
 
 
 :::tip
-主要是来收录一些链接，包括优质文章、优质开发者、开源项目，以及用于学习的网址、工具、官方地址
+主要是来收录一些链接，包括优质文章、优质开发者、开源项目，以及用于学习的网址、官方网址、工具、实用小软件
 :::
 
 
@@ -178,3 +178,9 @@ categories:
 - Regex Vis：[https://regex-vis.com/](https://regex-vis.com/)（正则表达式可视化器和编辑器）
 - Slidev：[https://sli.dev/](https://sli.dev/)（基于Web的幻灯片制作和演示工具）
 
+
+
+## 软件
+
+- Fliqlo：[https://fliqlo.com/](https://fliqlo.com/)（Flip Clock App and Screensaver）
+- Geek Uninstaller：[https://geekuninstaller.com/](https://geekuninstaller.com/)（the best FREE uninstaller）
