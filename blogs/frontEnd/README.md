@@ -13,9 +13,9 @@ tags:
 
 ## HTML5_CSS3
 
-- [HTML5_CSS3知识整理](/blogs/frontEnd/html5-css3/220211.md)
+- [HTML5_CSS3实用知识](/blogs/frontEnd/html5-css3/220211.md)
 
-- [HTML5_CSS3代码小技巧](/blogs/frontEnd/html5-css3/210709.md)
+- [HTML5_CSS3实战代码](/blogs/frontEnd/html5-css3/210709.md)
 
 - [开发者应该避免的CSS的做法](/blogs/frontEnd/html5-css3/210518.md)
 
@@ -26,9 +26,9 @@ tags:
 
 ## JavaScript
 
-- [JavaScript知识整理](/blogs/frontEnd/javascript/220406.md)
+- [JavaScript实用知识](/blogs/frontEnd/javascript/220406.md)
 
-- [JavaScript代码小技巧](/blogs/frontEnd/javascript/210521.md)
+- [JavaScript实战代码](/blogs/frontEnd/javascript/210521.md)
 
 - [JavaScript基础](/blogs/frontEnd/javascript/210520.md)
 
@@ -50,7 +50,7 @@ tags:
 
 ## Vue
 
-- [Vue代码小技巧](/blogs/frontEnd/vue/210527.md)
+- [Vue实战代码](/blogs/frontEnd/vue/210527.md)
 
 - [Vue路由过渡动效](/blogs/frontEnd/vue/210518.md)
 
@@ -62,7 +62,7 @@ tags:
 
 ## React
 
-- [React知识整理](/blogs/frontEnd/react/210802.md)
+- [React实用知识](/blogs/frontEnd/react/210802.md)
 
 
 
