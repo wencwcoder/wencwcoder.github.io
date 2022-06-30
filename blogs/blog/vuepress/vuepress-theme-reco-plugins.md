@@ -15,7 +15,7 @@ tags:
 
 ### 打赏
 
-- cnpm i -D @vuepress-reco/vuepress-plugin-bulletin-popover
+- `cnpm i -D @vuepress-reco/vuepress-plugin-bulletin-popover`
 
 ```js
 ['@vuepress-reco/vuepress-plugin-bulletin-popover', {
@@ -46,7 +46,7 @@ tags:
 
 ### 音乐播放器
 
-- cnpm i -D @vuepress-reco/vuepress-plugin-bgm-player
+- `cnpm i -D @vuepress-reco/vuepress-plugin-bgm-player`
 
 ```javascript
 ['@vuepress-reco/vuepress-plugin-bgm-player', {
@@ -81,9 +81,52 @@ tags:
 
 
 
+### 音乐播放器2.0
+
+- `cnpm i -D vuepress-plugin-meting`
+
+```javascript
+['meting', {
+    meting: {
+      // server -- 音乐平台："netease" | "tencent" | "kuwo" | "kugou" | "baidu"
+      // type -- 资源类型："song" | "album" | "artist" | "playlist"
+      // mid -- 资源 id
+      // server: "netease",
+      // type: "artist",
+      // mid: "5771",
+      // 自动解析：server type mid
+      auto: "https://music.163.com/#/artist?id=5771",
+    },
+    // 不配置该项的话不会出现全局播放器
+    aplayer: {
+      fixed: true,
+      mini: true,
+      autoplay: true,
+      theme: "#b7daff",
+      loop: "all", // 初始循环模式："all" | "one" | "none"
+      order: "list", // 初始顺序模式："list" | "random"
+      preloa: "auto", // 音频预加载模式: "auto" | "metadata" | "none"
+      volume: 1, // 初始音量：0~1
+      mutex: true, // 是否开启互斥模式，即是否只允许一个音乐播放，默认为 true
+      lrcType: 3, // 歌词解析模式：3 | 1 | 0（0：禁用 lrc 歌词，1：lrc 格式的字符串，3：lrc 文件 url）
+      listFolded: true, // 是否折叠播放列表
+      listMaxHeight: 250 // 播放列表的最大高度
+    },
+    // 移动设备上的一些特殊选项
+    mobile: {
+      cover: false,
+      lrc: true
+    },
+    // 加载音乐封面时所显示的默认封面图
+    // defaultCover: 'https://nyakku.moe/avatar.jpg'
+}]
+```
+
+
+
 ### 看板娘
 
-- cnpm i -D @vuepress-reco/vuepress-plugin-kan-ban-niang
+- `cnpm i -D @vuepress-reco/vuepress-plugin-kan-ban-niang`
 
 ```javascript
 ['@vuepress-reco/vuepress-plugin-kan-ban-niang', {
@@ -96,7 +139,7 @@ tags:
 
 ### 可爱的光标效果
 
-- cnpm i -D vuepress-plugin-cursor-effects
+- `cnpm i -D vuepress-plugin-cursor-effects`
 
 ```javascript
 ['cursor-effects', {
@@ -110,7 +153,7 @@ tags:
 
 ### 动态标题
 
-- cnpm i -D vuepress-plugin-dynamic-title
+- `cnpm i -D vuepress-plugin-dynamic-title`
 
 ```javascript
 ['dynamic-title', {
@@ -126,7 +169,7 @@ tags:
 
 ### 代码复制
 
-- cnpm i -D vuepress-plugin-nuggets-style-copy
+- `cnpm i -D vuepress-plugin-nuggets-style-copy`
 
 ```javascript
 ["vuepress-plugin-nuggets-style-copy", {
