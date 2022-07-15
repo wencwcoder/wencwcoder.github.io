@@ -65,6 +65,7 @@ module.exports = {
   "/blogs/blog/": [
     "",
     "Link.md",
+    "FrontEnd-Environment-Setup.md",
     {
       title: "vuepress",
       collapsable: true,
