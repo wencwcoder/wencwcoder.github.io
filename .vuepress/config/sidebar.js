@@ -32,6 +32,7 @@ module.exports = {
       collapsable: true,
       children: [
         "vue/220715.md",
+        "vue/220718.md",
         "vue/210527.md",
         "vue/210518.md",
         "vue/210709.md",
