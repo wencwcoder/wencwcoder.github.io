@@ -53,10 +53,10 @@ demo
 2.  *后端  backEnd*
 4.  *博客  blog*
 5.  *随笔  essays*
-5.  *AI 大数据*
-5.  *计算机基础*
-5.  *运维测试*
-5.  *产品运营*
+5.  *人工智能 AI*
+5.  *计算机基础 ComputerBasics*
+5.  *测试运维 DevOps*
+5.  *产品运营 PO*
 
 
 
