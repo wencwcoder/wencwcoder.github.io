@@ -9,7 +9,7 @@ module.exports = [
   ["vuepress-plugin-nuggets-style-copy", {
     copyText: "复制代码",
     tip: {
-      content: "Copy success!"
+      content: "Copy Successfully!"
     }
   }],
   ["vuepress-plugin-reading-progress"],
