@@ -18,10 +18,45 @@ categories:
 ## node
 
 - 下载：[https://nodejs.org/en/download/](https://nodejs.org/en/download/)，LTS -- Windows Installer (.msi) -- 64-bit -- 【node-v16.16.0-x64.msi】。
+- 学习文档：[https://nqdeng.github.io/7-days-nodejs/](https://nqdeng.github.io/7-days-nodejs/)
 - 配置
 
 ```markdown
+1. 安装路径
+D:\Nodejs
 
+2. 安装测试
+node -v、npm -v
+
+3. 配置 npm 的全局模块安装路径及 cache 路径
+- 在 D:\Nodejs 下新建文件夹：
+-- node_global、node_cache
+- 执行命令：
+-- npm config set prefix "D:\Nodejs\node_global"
+-- npm config set cache "D:\Nodejs\node_cache"
+
+4. 添加系统变量
+我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> 新建
+变量名：NODE_PATH
+变量值：D:\Nodejs\node_global\node_modules
+
+5. 安装 express 包
+npm install express –g
+安装完成后到 D:\Nodejs\node_global\node_modules 查看是否有该包
+
+6. 安装 npmmirror 中国镜像站
+npm install -g cnpm --registry=https://registry.npmmirror.com
+
+7. 添加系统变量 path 的内容
+我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> path -> 编辑 -> 新建
+D:\Nodejs\node_global
+
+8. 检查 cnpm 是否正常
+cnpm –v
+
+9. 设置 npm 默认镜像
+npm config set registry https://registry.npmmirror.com
+npm get registry
 ```
 
 
@@ -60,7 +95,7 @@ categories:
 - TencentMeeting：[https://meeting.tencent.com/download/](https://meeting.tencent.com/download/)【TencentMeeting_0300000000_3.9.9.439.publish.exe】
 - Dingtalk：[https://page.dingtalk.com/wow/z/dingtalk/default/dddownload-index](https://page.dingtalk.com/wow/z/dingtalk/default/dddownload-index)【dingtalk_downloader.exe】
 - XunLei：[https://www.xunlei.com/](https://www.xunlei.com/)【XunLeiWebSetup11.3.12.1932gw.exe】
-- NeteaseCloudMusic：[https://music.163.com/#/download](https://music.163.com/#/download)【NeteaseCloudMusic_Music_official_2.10.2.200154】
+- NeteaseCloudMusic：[https://music.163.com/#/download](https://music.163.com/#/download)【NeteaseCloudMusic_Music_official_2.10.2.200154.exe】
 - QQMusic：[https://y.qq.com/download/download.html](https://y.qq.com/download/download.html)【QQMusic_YQQWinPCDL.exe】
 - Ximalaya：[https://www.ximalaya.com/download/](https://www.ximalaya.com/download/)【Ximalaya-3.0.0_1654660862_11.exe】
 - ClashForWindows：[https://github.com/Fndroid/clash_for_windows_pkg/releases](https://github.com/Fndroid/clash_for_windows_pkg/releases/tag/0.16.3)【Clash.for.Windows.Setup.0.16.3.exe】
@@ -68,6 +103,7 @@ categories:
 - Typora：[https://typora.io/releases/all](https://typora.io/releases/all)、[https://typoraio.cn/releases/all](https://typoraio.cn/releases/all)
 - Typora：[https://download.typora.io/windows/typora-setup-x64-0.11.18.exe](https://download.typora.io/windows/typora-setup-x64-0.11.18.exe)
 - BaiduNetdisk：[https://pan.baidu.com/download#win](https://pan.baidu.com/download#win)【BaiduNetdisk_7.18.1.3.exe】
+- SunloginClient：[https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)【SunloginClient_12.6.0.48685_x64.exe】
 - Snipaste：[https://www.snipaste.com/download.html](https://www.snipaste.com/download.html)【Snipaste-2.7.3-Beta-x64.zip】
 - ScreenToGif：[https://www.screentogif.com/downloads](https://www.screentogif.com/downloads)【ScreenToGif.2.37.Setup.x64.msi】
 - PotPlayer：[https://potplayer.daum.net/](https://potplayer.daum.net/)【PotPlayerSetup64.exe】
