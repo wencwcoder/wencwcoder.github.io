@@ -113,6 +113,8 @@ git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
 
 - VSCode：[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)【VSCodeUserSetup-x64-1.69.2.exe】
 - TortoiseGit：[https://tortoisegit.org/download/](https://tortoisegit.org/download/)【TortoiseGit-2.13.0.1-64bit.msi】
+- Firefox：[https://www.mozilla.org/zh-CN/firefox/new/](https://www.mozilla.org/zh-CN/firefox/new/)【Firefox Installer.exe】
+- Firefox：[https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release](https://www.mozilla.org/zh-CN/firefox/all/#product-desktop-release)【Firefox Setup 103.0.exe】
 - WeChat：[https://pc.weixin.qq.com/](https://pc.weixin.qq.com/)【WeChatSetup.exe】
 - Work.WeChat：[https://work.weixin.qq.com/#indexDownload](https://work.weixin.qq.com/#indexDownload)【WeCom_4.0.8.6604.exe】
 - TIM：[https://office.qq.com/download.html](https://office.qq.com/download.html)【TIM3.3.9.22051.exe】
