@@ -29,11 +29,13 @@ D:\Nodejs
 node -v、npm -v
 
 3. 配置 npm 的全局模块安装路径及 cache 路径
-- 在 D:\Nodejs 下新建文件夹：
+- 在 D:\Nodejs 下新建文件夹
 -- node_global、node_cache
-- 执行命令：
+- 执行命令
 -- npm config set prefix "D:\Nodejs\node_global"
 -- npm config set cache "D:\Nodejs\node_cache"
+- 查看配置
+-- npm config list
 
 4. 添加系统变量
 我的电脑 -> 右键 -> 属性 ->高级系统设置 -> 环境变量 -> 系统变量 -> 新建
@@ -57,6 +59,7 @@ cnpm –v
 9. 设置 npm 默认镜像
 npm config set registry https://registry.npmmirror.com
 npm get registry
+临时设置：npm install @micro-design/cli --registry=https://registry.npmmirror.com
 ```
 
 
@@ -69,7 +72,25 @@ npm get registry
 - 配置
 
 ```markdown
+1. 基本配置
+git config --list
+git config --global --list
+git config --global user.name "wencwcoder"
+git config --global user.email "1748994690@qq.com"
+git config --global color.ui false  // 关闭着色
+git config --global http.sslVerify false  // 证书
+git config --global http.postBuffer 524288000
 
+2. 生成新 SSH 密钥
+ssh-keygen -t rsa -C "1748994690@qq.com"  // 3个回车
+ssh -T git@github.com  // 测试 ssh 是否成功，输入 yes
+ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts  // 上一步出错处理
+
+3. 更换 git 地址
+git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
+
+4. git clone 较慢的处理
+修改一下url链接，在github.com后面加上.cnpmjs.org即可（注意 push 的时候要改 config，且只用于 https clone）
 ```
 
 
@@ -80,7 +101,10 @@ npm get registry
 - 配置
 
 ```markdown
-
+1. 插件 -- Proxy SwitchyOmega
+情景模式 -> proxy -> sock5 / 127.0.0.1 / 7890
+情景模式 -> auto switch -> proxy | 导入在线规则列表 / 添加规则列表 / AutoProxy
+规则列表网址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
 ```
 
 
