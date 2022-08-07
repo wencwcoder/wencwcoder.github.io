@@ -83,6 +83,7 @@ categories:
 - itnext：[https://itnext.io/](https://itnext.io/)
 - DEV Community：[https://dev.to/](https://dev.to/)（开发者社区，有点像掘金）
 - padding：[https://fe.padding.me/#/](https://fe.padding.me/#/)（前端面试题集锦 - by paddingme）
+- 1 LOC：[https://1loc.dev/](https://1loc.dev/)（In single line of code）
 
 
 

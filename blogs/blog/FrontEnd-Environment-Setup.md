@@ -57,6 +57,7 @@ D:\Nodejs\node_global
 cnpm –v
 
 9. 设置 npm 默认镜像
+默认镜像：https://registry.npmjs.org/
 npm config set registry https://registry.npmmirror.com
 npm get registry
 临时设置：npm install @micro-design/cli --registry=https://registry.npmmirror.com
