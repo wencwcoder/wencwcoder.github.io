@@ -1,5 +1,5 @@
 module.exports = {
-  "/blogs/frontEnd/": [
+  "/blogs/frontend/": [
     "",
     {
       title: "HTML5_CSS3",
@@ -54,7 +54,7 @@ module.exports = {
       ]
     },
   ],
-  "/blogs/backEnd/": [
+  "/blogs/backend/": [
     "",
     // {
     //   title: "xxx",
@@ -66,8 +66,8 @@ module.exports = {
   ],
   "/blogs/blog/": [
     "",
-    "Link.md",
-    "FrontEnd-Environment-Setup.md",
+    "link.md",
+    "frontend-environment-setup.md",
     {
       title: "vuepress",
       collapsable: true,

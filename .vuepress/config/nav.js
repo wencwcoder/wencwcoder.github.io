@@ -15,11 +15,11 @@ module.exports = [
     items: [
       {
         text: "前端汇总",
-        link: "/blogs/frontEnd/"
+        link: "/blogs/frontend/"
       },
       {
         text: "后端汇总",
-        link: "/blogs/backEnd/"
+        link: "/blogs/backend/"
       },
       {
         text: "博客汇总",

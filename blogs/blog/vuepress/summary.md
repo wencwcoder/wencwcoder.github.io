@@ -49,14 +49,14 @@ demo
 
 本博客分类还在更新中，因为现在文章较少，以下是现有的分类，后续会更新：
 
-1.  *前端  frontEnd*
-2.  *后端  backEnd*
+1.  *前端  frontend*
+2.  *后端  backend*
 4.  *博客  blog*
 5.  *随笔  essays*
-5.  *人工智能 AI*
-5.  *计算机基础 ComputerBasics*
-5.  *测试运维 DevOps*
-5.  *产品运营 PO*
+5.  *人工智能 ai*
+6.  *计算机基础 computer-basics*
+7.  *测试运维 devops*
+8.  *产品运营 po*
 
 
 
