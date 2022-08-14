@@ -25,6 +25,7 @@ module.exports = {
         "javascript/210507.md",
         "javascript/210512.md",
         "javascript/220220.md",
+        "javascript/220814.md",
       ]
     },
     {
@@ -92,8 +93,8 @@ module.exports = {
       collapsable: true,
       children: [
         "interview/210423.md",
-        "interview/210513.md",
         "interview/220407.md",
+        "interview/210513.md",
         "interview/220210.md",
         "interview/210422.md",
       ]
