@@ -180,3 +180,13 @@ tags:
 }]
 ```
 
+
+
+### 代码复制2.0
+
+- `cnpm i -D vuepress-plugin-nuggets-style-copy`
+
+```javascript
+["vuepress-plugin-code-copy", true]
+```
+
