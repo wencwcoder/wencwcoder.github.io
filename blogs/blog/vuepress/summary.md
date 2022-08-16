@@ -17,6 +17,14 @@ sticky: 1
 
 
 
+## 快速开始
+
+```bash
+npx @vuepress-reco/theme-cli init
+```
+
+
+
 ## 编写博客的 Front Matter
 
 ```markdown
