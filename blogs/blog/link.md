@@ -92,8 +92,8 @@ categories:
 - MDN Web Docs：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 - Node.js：[https://nodejs.org/en/](https://nodejs.org/en/)、[http://nodejs.cn/](http://nodejs.cn/)
 - React.js：[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)
-- Vue2.x：[https://cn.vuejs.org/v2/guide/index.html](https://cn.vuejs.org/v2/guide/index.html)
-- Vue3.x 旧版：[https://v3.cn.vuejs.org/guide/introduction.html](https://v3.cn.vuejs.org/guide/introduction.html)
+- Vue2.x：[https://v2.cn.vuejs.org/v2/guide/index.html](https://v2.cn.vuejs.org/v2/guide/index.html)
+- Vue3.x 旧版：[https://cn.vuejs.org/guide/introduction.html](https://cn.vuejs.org/guide/introduction.html)
 - Vue3.x 新版：[https://staging-cn.vuejs.org/](https://staging-cn.vuejs.org/)（更新中）
 - Vite 中文网：[https://cn.vitejs.dev/](https://cn.vitejs.dev/)（下一代前端开发与构建工具）
 - npm 安装文档：[http://caibaojian.com/npm/](http://caibaojian.com/npm/)）（npm 中文网）
@@ -151,23 +151,25 @@ categories:
 - Coverr.co：[https://coverr.co/](https://coverr.co/)（视频资源）
 - Pexels：[https://www.pexels.com/zh-cn/](https://www.pexels.com/zh-cn/)（图片视频资源）
 - Unsplash：[https://unsplash.com/](https://unsplash.com/)（图片资源）
-- 404fun：[https://error404.fun/](https://error404.fun/)（404图片资源）
 - Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
+- Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
+- Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
+- Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（好看的代码片段生成图）
+- Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
 - Neumorphism.io：[https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)（css 生成器--阴影）
 - Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（css 生成器--边框圆角）
 - Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（css 生成器--图片裁剪）
-- Animista：[https://animista.net/](https://animista.net/)（css 生成器--图动画效果）
+- Animista：[https://animista.net/](https://animista.net/)（css 生成器--动画效果）
 - CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（css 生成器--过渡效果，按钮、加载）
 - color.oulu.me：[https://color.oulu.me/](https://color.oulu.me/)（css 生成器--渐变背景）
-- Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
-- Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
-- Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
 - DevDocs：[https://devdocs.io/](https://devdocs.io/)（Web 开发技术文档）
 - Dribbble：[https://dribbble.com/](https://dribbble.com/)（设计灵感）
 - resume：[https://visiky.github.io/resume/?mode=edit](https://visiky.github.io/resume/?mode=edit)（在线简历生成器）
 - 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
 - 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
 - TextKool： [https://textkool.com/en](https://textkool.com/en/ascii-art-generator?hl=default&vl=default&font=Red%20Phoenix&text=Your%20text%20here%20)（ASCII art generator，console 字体）
+- Regex Vis：[https://regex-vis.com/](https://regex-vis.com/)（正则表达式可视化器和编辑器）
+- HateRegex：[https://ihateregex.io/](https://ihateregex.io/)（正则表达式编辑）
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 - Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
@@ -176,7 +178,6 @@ categories:
 - Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
 - 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
 - Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
-- Regex Vis：[https://regex-vis.com/](https://regex-vis.com/)（正则表达式可视化器和编辑器）
 - Slidev：[https://sli.dev/](https://sli.dev/)（基于Web的幻灯片制作和演示工具）
 
 
