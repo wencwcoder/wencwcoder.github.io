@@ -40,10 +40,16 @@ categories:
 - EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
 - 抽奖程序：[GitHub](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
 - freeCodeCamp：[https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)（免费学习编码的开源代码库和课程）
+- freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
 - LeetcodeTop：[https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
 - algorithm-visualizer：[https://github.com/algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer)（算法可视化器）
 - hello-algorithm：[https://github.com/geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)（一套针对小白的完整的算法训练流程）
+- nodebestpractices：[https://github.com/goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices)（Node.js 最佳实践）
+- You-Dont-Know-JS：[https://github.com/getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)（深入探讨 JavaScript 语言核心机制）
 - 前端经验总结：[https://github.com/woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)（带你入门前端工程）
+- clean-code-javascript：[https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)（优秀的 JavaScript 代码规范）
+- 30-seconds-of-code：[https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)（简短 JavaScript 代码片段）
+- tech-interview-handbook：[https://github.com/yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)（技术人员求职面试）
 
 
 
@@ -55,11 +61,13 @@ categories:
 - Surmon：[https://surmon.me/](https://surmon.me/)（来苏之望）
 - 峰华：[https://zxuqian.cn/](https://zxuqian.cn/)（让你学会前端开发）
 - 李传个人网站 ---鸥鹭：[https://oulu.me/](https://oulu.me/)（前端个人网站，有很多有创意的小东西）
+- Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
 - 山月：[https://q.shanyue.tech/](https://q.shanyue.tech/)（互联网大厂面试题每日一题）
 - RWieruch：[https://www.robinwieruch.de/](https://www.robinwieruch.de/)（德国 REACT.JS、NODE.JS 和 GRAPHQL 软件工程师）
 - 阮一峰的网络日志：[http://www.ruanyifeng.com/blog/archives.html](http://www.ruanyifeng.com/blog/archives.html)
 - 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
 - IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
+- 酷壳 CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
 - 有赞技术团队：[https://tech.youzan.com/](https://tech.youzan.com/)
 - 政采云前端小报：[https://weekly.zoo.team/](https://weekly.zoo.team/)
 - 字节跳动飞书云文档：[链接](https://bytedance.feishu.cn/base/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)（前端面试真题，会80%直接进大厂）
@@ -78,7 +86,6 @@ categories:
 - acwing：[https://www.acwing.com/](https://www.acwing.com/)
 - pdai.tech：[https://pdai.tech/](https://pdai.tech/)（Java 全栈知识体系）
 - awesome-coding-js：[http://www.conardli.top/docs/](http://www.conardli.top/docs/)（用 JavaScript 实现的算法和数据结构）
-- freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
 - Medium：[https://medium.com/](https://medium.com/)（Where good ideas find you）
 - itnext：[https://itnext.io/](https://itnext.io/)
 - DEV Community：[https://dev.to/](https://dev.to/)（开发者社区，有点像掘金）
@@ -173,11 +180,9 @@ categories:
 - TempMail：[https://temp-mail.org/zh](https://temp-mail.org/zh)（一次性电子邮件，免费电子邮件服务）
 - buhuibaidu：[https://buhuibaidu.me/](https://buhuibaidu.me/)（不会百度么）
 - Z-Library：[https://zh.1lib.tw/](https://zh.1lib.tw/)（全球最大的数字图书馆，免费电子图书）
-- 酷壳 CoolShell：[https://coolshell.cn/](https://coolshell.cn/)（享受编程和技术所带来的快乐 – Coding Your Ambition）
 - 站酷 ZCOOL：[https://www.zcool.com.cn/home](https://www.zcool.com.cn/home)（设计师互动平台 - 打开站酷，发现更好的设计）
 - Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
 - 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
-- Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
 - Slidev：[https://sli.dev/](https://sli.dev/)（基于Web的幻灯片制作和演示工具）
 
 
