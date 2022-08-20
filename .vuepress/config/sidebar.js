@@ -18,6 +18,7 @@ module.exports = {
         "javascript/220406.md",
         "javascript/210521.md",
         "javascript/210520.md",
+        "javascript/220820.md",
         "javascript/210603.md",
         "javascript/210427.md",
         "javascript/210429.md",

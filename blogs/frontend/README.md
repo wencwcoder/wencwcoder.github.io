@@ -32,7 +32,9 @@ tags:
 
 - [JavaScript基础](/blogs/frontend/javascript/210520.md)
 
-- [JavaScript基础问题](/blogs/frontend/javascript/210603.md)
+- [JavaScript错误处理机制](/blogs/frontend/javascript/220820.md)
+
+- [JavaScript基础问答题](/blogs/frontend/javascript/210603.md)
 
 - [几个优雅的运算符使用技巧](/blogs/frontend/javascript/210427.md)
 
