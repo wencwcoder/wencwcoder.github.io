@@ -130,6 +130,7 @@ git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
 - ClashForAndroid：[https://github.com/Kr328/ClashForAndroid/releases](https://github.com/Kr328/ClashForAndroid/releases)【cfa-2.5.11-foss-arm64-v8a-release.apk】
 - Typora：[https://typora.io/releases/all](https://typora.io/releases/all)、[https://typoraio.cn/releases/all](https://typoraio.cn/releases/all)
 - Typora：[https://download.typora.io/windows/typora-setup-x64-0.11.18.exe](https://download.typora.io/windows/typora-setup-x64-0.11.18.exe)
+- 有道云笔记：[https://note.youdao.com/download.html](https://note.youdao.com/download.html)【有道云笔记-7.1.6.exe】
 - BaiduNetdisk：[https://pan.baidu.com/download#win](https://pan.baidu.com/download#win)【BaiduNetdisk_7.18.1.3.exe】
 - SunloginClient：[https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)【SunloginClient_12.6.0.48685_x64.exe】
 - Snipaste：[https://www.snipaste.com/download.html](https://www.snipaste.com/download.html)【Snipaste-2.7.3-Beta-x64.zip】
