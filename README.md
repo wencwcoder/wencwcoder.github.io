@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: (～￣▽￣)～
-tagline: ǝɯ ɹǝqɯǝɯǝɹ noʎ ǝdoɥ
+tagline: 越闲，越矫情
 # heroImage: /img/common/hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
