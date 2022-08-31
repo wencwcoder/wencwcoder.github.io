@@ -39,6 +39,7 @@ module.exports = {
         "vue/210518.md",
         "vue/210709.md",
         "vue/220614.md",
+        "vue/220831.md",
       ]
     },
     {
