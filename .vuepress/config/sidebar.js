@@ -30,6 +30,13 @@ module.exports = {
       ]
     },
     {
+      title: "TypeScript",
+      collapsable: true,
+      children: [
+        "typescript/220901.md",
+      ]
+    },
+    {
       title: "Vue",
       collapsable: true,
       children: [
