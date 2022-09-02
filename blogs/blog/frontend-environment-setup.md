@@ -82,6 +82,19 @@ git config --global color.ui false  // 关闭着色
 git config --global http.sslVerify false  // 证书
 git config --global http.postBuffer 524288000
 git config core.ignorecase  -->  git config core.ignorecase false // 文件夹大小写
+# 拒绝提交包含混合换行符的文件（推荐）
+git config --global core.safecrlf true
+# 允许提交包含混合换行符的文件
+git config --global core.safecrlf false
+# 提交包含混合换行符的文件时给出警告
+git config --global core.safecrlf warn
+# 提交时转换为LF，检出时转换为CRLF
+git config --global core.autocrlf true
+# 提交时转换为LF，检出时不转换（推荐）
+git config --global core.autocrlf input
+# 提交检出均不转换
+git config --global core.autocrlf false
+
 
 2. 生成新 SSH 密钥
 ssh-keygen -t rsa -C "1748994690@qq.com"  // 3个回车
