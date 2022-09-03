@@ -109,6 +109,8 @@ categories:
 - Jest：[https://jestjs.io/zh-Hans/](https://jestjs.io/zh-Hans/)（一款优雅、简洁的 JavaScript 测试框架）
 - TypeScript：[https://www.typescriptlang.org/](https://www.typescriptlang.org/)
 - TypeScript 中文网：[https://www.tslang.cn/index.html](https://www.tslang.cn/index.html)
+- ESLint：[https://eslint.org/](https://eslint.org/)、[https://zh-hans.eslint.org/](https://zh-hans.eslint.org/)（检测并修复 JavaScript 代码中的问题）
+- ESLint 中文网：[https://cn.eslint.org/](https://cn.eslint.org/)（可组装的 JavaScript 和 JSX 检查工具）
 - Webpack：[https://webpack.docschina.org/](https://webpack.docschina.org/)
 - rollup.js：[https://rollupjs.org/guide/en/](https://rollupjs.org/guide/en/)、[https://www.rollupjs.com/](https://www.rollupjs.com/)（ JavaScript 模块打包器）
 - Babel 中文网：[https://www.babeljs.cn/](https://www.babeljs.cn/)
