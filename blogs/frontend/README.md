@@ -62,8 +62,6 @@ tags:
 
 - [Vue2实用知识](/blogs/frontend/vue/220715.md)
 
-- [Vue3实用知识](/blogs/frontend/vue/220718.md)
-
 - [Vue实战代码](/blogs/frontend/vue/210527.md)
 
 - [Vue路由过渡动效](/blogs/frontend/vue/210518.md)
@@ -71,6 +69,8 @@ tags:
 - [Vue修饰符](/blogs/frontend/vue/210709.md)
 
 - [Vue3测试题](/blogs/frontend/vue/220614.md)
+
+- [Vue3实用知识](/blogs/frontend/vue/220718.md)
 
 - [Vue3上手指南](/blogs/frontend/vue/220831.md)
 
