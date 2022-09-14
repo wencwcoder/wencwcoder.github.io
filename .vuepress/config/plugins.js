@@ -35,7 +35,8 @@ module.exports = [
       clean: true,
     },
   ],
-  ["vuepress-plugin-code-copy", true],
+  // 2022-09-13：效果不太好
+  // ["vuepress-plugin-code-copy", true],
   // 2022-08-15：【Uncaught SyntaxError: Unexpected number】
   // [
   //   "vuepress-plugin-nuggets-style-copy",
