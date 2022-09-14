@@ -88,9 +88,9 @@ git config --global core.safecrlf true
 git config --global core.safecrlf false
 # 提交包含混合换行符的文件时给出警告
 git config --global core.safecrlf warn
-# 提交时转换为LF，检出时转换为CRLF
+# 提交时转换为LF，检出时转换为CRLF（推荐 Windows）
 git config --global core.autocrlf true
-# 提交时转换为LF，检出时不转换（推荐）
+# 提交时转换为LF，检出时不转换（推荐 MAC/Linux）（现在我的 Windows 是该配置）
 git config --global core.autocrlf input
 # 提交检出均不转换
 git config --global core.autocrlf false
