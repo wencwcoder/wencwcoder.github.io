@@ -24,8 +24,8 @@ categories:
 ## 优质开发者、开源项目
 
 - 冴羽：[https://github.com/mqyqingfeng](https://github.com/mqyqingfeng)（个人博客、原生轮子）
-- 大史 -- Dashnowords：[https://github.com/dashnowords](https://github.com/dashnowords)（个人博客）
-- 刘博文 -- Berwin：[https://github.com/berwin](https://github.com/berwin)（个人博客）
+- 大史Dashnowords：[https://github.com/dashnowords](https://github.com/dashnowords)（个人博客）
+- 刘博文Berwin：[https://github.com/berwin](https://github.com/berwin)（个人博客）
 - ssh：[https://github.com/sl1673495](https://github.com/sl1673495)（个人博客，算法题）
 - 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客，[https://github.com/linbudu599](https://github.com/linbudu599)）
 - 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
@@ -33,12 +33,13 @@ categories:
 - JerryQu：[https://imququ.com/](https://imququ.com/)（个人博客）
 - 鱼皮：[https://github.com/liyupi](https://github.com/liyupi)（全栈攻城狮）
 - 木易杨：[https://muyiy.cn/blog/](https://muyiy.cn/blog/)（前端进阶博文，一些问答 [https://github.com/Advanced-Frontend](https://github.com/Advanced-Frontend)）
+- xiaozhi：[https://github.com/qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi)（分享整理的知识点）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
-- Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊。帮你理解最前沿、实用的技术）
+- Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊，帮你理解最前沿、实用的技术）
 - Online-books：[https://github.com/online-books/moyu](https://github.com/online-books/moyu)（在线摸鱼减压，内容比较杂乱，是汇总非原创）
 - EbookFoundation/free-programming-books：[GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)（免费的编程书籍）
-- 抽奖程序：[GitHub](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
+- 抽奖程序：[https://github.com/moshang-xc/lottery](https://github.com/moshang-xc/lottery)（Node + Express + Three.js + Express）
 - freeCodeCamp：[https://github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)（免费学习编码的开源代码库和课程）
 - freecodecamp：[https://chinese.freecodecamp.org/learn/](https://chinese.freecodecamp.org/learn/)（免费学习编程 - Python、JavaScript、Java、Git 等，全球性的）
 - LeetcodeTop：[https://github.com/afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)（汇总各大互联网公司容易考察的高频 leetcode 题）
@@ -119,6 +120,7 @@ categories:
 - Lodash 中文文档：[https://www.lodashjs.com/](https://www.lodashjs.com/)（一致性、模块化、高性能的 JavaScript 实用工具库）
 - Ramda：[https://ramdajs.com/](https://ramdajs.com/)、[https://ramda.cn/](https://ramda.cn/)（一款实用的 JavaScript 函数式编程库）
 - Day.js：[https://day.js.org/zh-CN/](https://day.js.org/zh-CN/)、[https://dayjs.gitee.io/zh-CN/](https://dayjs.gitee.io/zh-CN/)（一个轻量的处理时间和日期的 JavaScript 库）
+- VueUse：[https://vueuse.org/](https://vueuse.org/)（Vue 工具库）
 - Varlet：[https://varlet.gitee.io/varlet-ui/#/zh-CN/home](https://varlet.gitee.io/varlet-ui/#/zh-CN/home)（组件库 -- 移动端）
 - Viser：[https://viserjs.github.io/](https://viserjs.github.io/)（使用Viser进行可视化，让你的数据变得更加直观）
 - iconfont：[https://www.iconfont.cn/](https://www.iconfont.cn/)（阿里巴巴矢量图标库）
