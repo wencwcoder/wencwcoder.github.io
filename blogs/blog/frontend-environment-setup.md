@@ -150,6 +150,7 @@ git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
 - ScreenToGif：[https://www.screentogif.com/downloads](https://www.screentogif.com/downloads)【ScreenToGif.2.37.Setup.x64.msi】
 - PotPlayer：[https://potplayer.daum.net/](https://potplayer.daum.net/)【PotPlayerSetup64.exe】
 - Bandizip：[http://www.bandisoft.com/](http://www.bandisoft.com/)【BANDIZIP-SETUP-STD-X64.EXE】
+- uTools：[https://www.u.tools/](https://www.u.tools/)【uTools-3.0.3.exe】
 - Everything：[https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)【Everything-1.4.1.1017.x64.zip】
 - Postman：[https://www.postman.com/downloads/](https://www.postman.com/downloads/)【Postman-win64-9.25.2-Setup.exe】
 
