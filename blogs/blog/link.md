@@ -34,6 +34,7 @@ categories:
 - 鱼皮：[https://github.com/liyupi](https://github.com/liyupi)（全栈攻城狮）
 - 木易杨：[https://muyiy.cn/blog/](https://muyiy.cn/blog/)（前端进阶博文，一些问答 [https://github.com/Advanced-Frontend](https://github.com/Advanced-Frontend)）
 - xiaozhi：[https://github.com/qq449245884/xiaozhi](https://github.com/qq449245884/xiaozhi)（分享整理的知识点）
+- ZhongFuCheng3y：[https://github.com/ZhongFuCheng3y/athena](https://github.com/ZhongFuCheng3y/athena)（Java 后端知识图谱）
 - HelloGitHub：[GitHub](https://github.com/521xueweihan/HelloGitHub)，[Website](https://hellogithub.com/)（分享 GitHub 上有趣、入门级的开源项目）
 - Awesome Github REPO：[GitHub](https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo)（整理 GitHub 上高质量、有趣的开源项目）
 - Weekly：[https://github.com/ascoders/weekly](https://github.com/ascoders/weekly)（前端精读周刊，帮你理解最前沿、实用的技术）
