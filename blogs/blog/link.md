@@ -192,3 +192,11 @@ categories:
 - Fliqlo：[https://fliqlo.com/](https://fliqlo.com/)（Flip Clock App and Screensaver）
 - Geek Uninstaller：[https://geekuninstaller.com/](https://geekuninstaller.com/)（the best FREE uninstaller）
 - uTools：[https://www.u.tools/](https://www.u.tools/)（新一代效率工具平台）
+
+
+
+## Free Clash Node
+
+- https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash（Recommend !!!）
+- https://tt.vg/freeclash
+
