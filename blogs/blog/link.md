@@ -184,6 +184,7 @@ categories:
 - Pinbox：[https://withpinbox.com/](https://withpinbox.com/)（跨平台收藏工具）
 - 吾爱破解：[https://www.52pojie.cn/](https://www.52pojie.cn/)（论坛）
 - Slidev：[https://sli.dev/](https://sli.dev/)（基于Web的幻灯片制作和演示工具）
+- Canva可画：[https://www.canva.cn/](https://www.canva.cn/)（在线设计协作平台，平面设计作图软件）
 
 
 
