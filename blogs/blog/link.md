@@ -150,7 +150,6 @@ categories:
 - 机场：GaCloud -- [https://case.gacloudltd.org/](https://case.gacloudltd.org/)
 - 机场：HutaoCloud -- [https://hutao.cloud/](https://hutao.cloud/)（备用）
 - 机场：Shadowsocks -- [https://portal.shadowsocks.nz/](https://portal.shadowsocks.nz/)（可直接访问）
-- 机场 -- 适用于 Clash 的节点推荐：[https://clashnode.xyz/](https://clashnode.xyz/)（节点介绍及推荐的博客地址）
 - Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
 - Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
 - Shields.io：[https://shields.io/](https://shields.io/)（徽章）
@@ -198,6 +197,13 @@ categories:
 
 ## Free Clash Node
 
+- Clash 节点介绍及推荐的博客：[https://clashnode.xyz/](https://clashnode.xyz/)【免费付费均有推荐】
+- Github 上获取免费的 Clash 订阅：关键词【[clash订阅链接](https://github.com/search?q=clash%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5)、[clash 订阅](https://github.com/search?q=clash+%E8%AE%A2%E9%98%85)】
 - https://ghproxy.com/https://raw.githubusercontent.com/kxswa/k/k/clash（Recommend !!!）
 - https://tt.vg/freeclash
+- https://raw.iqiq.io/anaer/Sub/main/clash.yaml
+- https://raw.fastgit.org/anaer/Sub/main/clash.yaml
+- https://cdn.jsdelivr.net/gh/anaer/Sub@main/clash.yaml
+
+
 
