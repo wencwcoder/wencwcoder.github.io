@@ -52,6 +52,7 @@ categories:
 - clean-code-javascript：[https://github.com/ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)（优秀的 JavaScript 代码规范）
 - 30-seconds-of-code：[https://github.com/30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code)（简短 JavaScript 代码片段）
 - tech-interview-handbook：[https://github.com/yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)（技术人员求职面试）
+- Developer-Books：[https://github.com/7-sevens/Developer-Books](https://github.com/7-sevens/Developer-Books)（编程开发相关书籍整理分享）
 
 
 
