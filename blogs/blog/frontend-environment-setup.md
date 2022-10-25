@@ -106,6 +106,27 @@ git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
 
 4. git clone 较慢的处理
 修改一下url链接，在github.com后面加上.cnpmjs.org即可（注意 push 的时候要改 config，且只用于 https clone）
+
+5. 凭证管理
+控制面板\所有控制面板项\凭据管理器
+```
+
+
+
+### TortoiseGit
+
+- 参考资料：[https://ld246.com/article/1585821617119](https://ld246.com/article/1585821617119)、[https://blog.csdn.net/qq_42120178/article/details/95321936](https://blog.csdn.net/qq_42120178/article/details/95321936)、[https://www.imooc.com/article/304255](https://www.imooc.com/article/304255)。
+- 配置
+
+```markdown
+General
+Git for Windows -- Git.exe Path -- D:\Git\bin
+
+Git
+User Info -- Name: wencw / Email: 1748994690@qq.com
+
+Network
+SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 ```
 
 
