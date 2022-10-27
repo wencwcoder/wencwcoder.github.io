@@ -27,6 +27,7 @@ categories:
 - 大史Dashnowords：[https://github.com/dashnowords](https://github.com/dashnowords)（个人博客）
 - 刘博文Berwin：[https://github.com/berwin](https://github.com/berwin)（个人博客）
 - ssh：[https://github.com/sl1673495](https://github.com/sl1673495)（个人博客，算法题）
+- 神三元：[https://github.com/sanyuan0704](https://github.com/sanyuan0704/my_blog)（个人博客一起构建完整知识体系）
 - 林不渡：[https://linbudu.top/](https://linbudu.top/)（个人博客，[https://github.com/linbudu599](https://github.com/linbudu599)）
 - 啝裳：[https://github.com/xiaoxian521](https://github.com/xiaoxian521)（后台管理系统 -- vue-pure-admin）
 - 汪图南：[https://wangtunan.github.io/blog/](https://wangtunan.github.io/blog/)（个人博客，[https://github.com/wangtunan](https://github.com/wangtunan)）
