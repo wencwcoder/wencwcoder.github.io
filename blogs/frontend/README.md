@@ -32,9 +32,9 @@ tags:
 
 - [JavaScript基础](/blogs/frontend/javascript/210520.md)
 
-- [JavaScript错误处理机制](/blogs/frontend/javascript/220820.md)
-
 - [JavaScript基础问答题](/blogs/frontend/javascript/210603.md)
+
+- [JavaScript错误处理机制](/blogs/frontend/javascript/220820.md)
 
 - [几个优雅的运算符使用技巧](/blogs/frontend/javascript/210427.md)
 
@@ -42,9 +42,9 @@ tags:
 
 - [call-apply-bind](/blogs/frontend/javascript/210505.md)
 
-- [深浅拷贝](/blogs/frontend/javascript/210507.md)
-
 - [async-await](/blogs/frontend/javascript/210512.md)
+
+- [深浅拷贝](/blogs/frontend/javascript/210507.md)
 
 - [节流防抖](/blogs/frontend/javascript/220220.md)
 
