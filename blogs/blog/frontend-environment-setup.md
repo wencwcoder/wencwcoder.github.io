@@ -111,6 +111,24 @@ git remote set-url origin https://gitee.com/supermapol/icn-dashboard-ui.git
 控制面板\所有控制面板项\凭据管理器
 ```
 
+- 提交规范
+
+|   类型   |                       描述                       |
+| :------: | :----------------------------------------------: |
+|   init   |                     初始提交                     |
+|   feat   |                      新功能                      |
+|   fix    |                     修复bug                      |
+|   docs   |                     修改文档                     |
+|  style   |                样式修改不影响逻辑                |
+| refactor |                     代码重构                     |
+|   test   |                     增删测试                     |
+|   perf   |                     性能优化                     |
+| release  |                       发布                       |
+|  deploy  |                       部署                       |
+|  revert  |                     版本回退                     |
+|  chore   | 更改配置文件、构建流程、依赖管理、辅助工具的变动 |
+|   eg.    |               docs(readme): 测试。               |
+
 
 
 ### TortoiseGit
