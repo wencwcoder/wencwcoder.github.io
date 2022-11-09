@@ -194,6 +194,8 @@ categories:
 - Fliqlo：[https://fliqlo.com/](https://fliqlo.com/)（Flip Clock App and Screensaver）
 - Geek Uninstaller：[https://geekuninstaller.com/](https://geekuninstaller.com/)（the best FREE uninstaller）
 - uTools：[https://www.u.tools/](https://www.u.tools/)（新一代效率工具平台）
+- Microsoft software-download：[https://www.microsoft.com/zh-cn/software-download](https://www.microsoft.com/zh-cn/software-download)（windows 下载，制作启动盘）
+- next.itellyou：[https://next.itellyou.cn/](https://next.itellyou.cn/)（提供可靠的原版软件，操作系统）
 
 
 
