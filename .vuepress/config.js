@@ -28,6 +28,7 @@ module.exports = {
     }]
   ],
   theme: "reco",
+  // noFoundPageByTencent: false, // 关闭 404 腾讯公益
   themeConfig: {
     nav,
     sidebar,
@@ -52,6 +53,12 @@ module.exports = {
     authorAvatar: "/img/common/avatar.png",
     record: "xxxx",
     startYear: "2021",
+    serviceWorker: {
+      updatePopup: {
+        message: "有新的内容",
+        buttonText: '更新'
+      }
+    },
     // repo: "https://github.com/wencwcoder/wencwcoder.github.io", // 只有当这条存在时才有编辑跳转链接
     docsBranch: "main",
     editLinks: true,
