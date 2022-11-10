@@ -114,6 +114,7 @@ module.exports = {
         "interview/220210.md",
         "interview/210422.md",
         "interview/220823.md",
+        "interview/221110.md",
       ]
     },
   ],
