@@ -68,6 +68,7 @@ categories:
 - Rat's Blog：[https://www.moerats.com/](https://www.moerats.com/)（相逢的人会再相逢）
 - 山月：[https://q.shanyue.tech/](https://q.shanyue.tech/)（互联网大厂面试题每日一题）
 - RWieruch：[https://www.robinwieruch.de/](https://www.robinwieruch.de/)（德国 REACT.JS、NODE.JS 和 GRAPHQL 软件工程师）
+- 程序员 poetry：[https://blog.poetries.top/](https://blog.poetries.top/)、[前端进阶之旅](https://interview2.poetries.top/)、[浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)、[Node.js学习指南](https://blog.poetries.top/node-learning-notes/)（分享编程经验干货）
 - 阮一峰的网络日志：[http://www.ruanyifeng.com/blog/archives.html](http://www.ruanyifeng.com/blog/archives.html)
 - 阮一峰的《ECMAScript 6 入门教程》：[https://es6.ruanyifeng.com/](https://es6.ruanyifeng.com/)
 - IT 码农：[https://tanqingbo.cn/](https://tanqingbo.cn/)（一个专注于程序员成长的网站）
