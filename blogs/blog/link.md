@@ -149,30 +149,31 @@ categories:
 
 ## 工具
 
-- 机场：翼游 -- [https://ddjppt.shop/user](https://ddjppt.shop/user)
-- 机场：GaCloud -- [https://case.gacloudltd.org/](https://case.gacloudltd.org/)
-- 机场：HutaoCloud -- [https://hutao.cloud/](https://hutao.cloud/)（备用）
-- 机场：Shadowsocks -- [https://portal.shadowsocks.nz/](https://portal.shadowsocks.nz/)（可直接访问）
+- 机场 -- 翼游：[https://ddjppt.shop/user](https://ddjppt.shop/user)
+- 机场 -- GaCloud：[https://case.gacloudltd.org/](https://case.gacloudltd.org/)
+- 机场 -- HutaoCloud：[https://hutao.cloud/](https://hutao.cloud/)（备用）
+- 机场 -- Shadowsocks：[https://portal.shadowsocks.nz/](https://portal.shadowsocks.nz/)（可直接访问）
+- 资源素材 -- Mixkit：[https://mixkit.co/](https://mixkit.co/)（视频）
+- 资源素材 -- Coverr.co：[https://coverr.co/](https://coverr.co/)（视频）
+- 资源素材 -- Pexels：[https://www.pexels.com/zh-cn/](https://www.pexels.com/zh-cn/)（图片）
+- 资源素材 -- Unsplash：[https://unsplash.com/](https://unsplash.com/)（图片）
+- 资源素材 -- Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
+- 资源素材 -- Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
+- CSS 生成器 -- Neumorphism.io：[https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)（阴影）
+- CSS 生成器 -- Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（边框圆角）
+- CSS 生成器 -- Animista：[https://animista.net/](https://animista.net/)（动画效果）
+- CSS 生成器 -- CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（过渡效果，按钮、加载）
+- CSS 生成器 -- color.oulu.me：[https://color.oulu.me/](https://color.oulu.me/)（渐变背景）
+- CSS 生成器 -- uiGradients：[https://uigradients.com/#KyooTah](https://uigradients.com/#KyooTah)（渐变背景）
+- CSS 生成器 -- Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（图片裁剪）
 - Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
 - Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
-- Shields.io：[https://shields.io/](https://shields.io/)（徽章）
-- Mixkit：[https://mixkit.co/](https://mixkit.co/)（视频资源）
-- Coverr.co：[https://coverr.co/](https://coverr.co/)（视频资源）
-- Pexels：[https://www.pexels.com/zh-cn/](https://www.pexels.com/zh-cn/)（图片视频资源）
-- Unsplash：[https://unsplash.com/](https://unsplash.com/)（图片资源）
-- Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
-- Undraw：[https://undraw.co/](https://undraw.co/)（SVG 插图）
-- Error404：[https://error404.fun/](https://error404.fun/)（404 页面）
-- Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（好看的代码片段生成图）
-- Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
-- Neumorphism.io：[https://neumorphism.io/#e0e0e0](https://neumorphism.io/#e0e0e0)（css 生成器--阴影）
-- Fancy-border-radius：[https://9elements.github.io/fancy-border-radius/](https://9elements.github.io/fancy-border-radius/)（css 生成器--边框圆角）
-- Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（css 生成器--图片裁剪）
-- Animista：[https://animista.net/](https://animista.net/)（css 生成器--动画效果）
-- CSSFX：[https://cssfx.netlify.app/](https://cssfx.netlify.app/)（css 生成器--过渡效果，按钮、加载）
-- color.oulu.me：[https://color.oulu.me/](https://color.oulu.me/)（css 生成器--渐变背景）
 - DevDocs：[https://devdocs.io/](https://devdocs.io/)（Web 开发技术文档）
 - Dribbble：[https://dribbble.com/](https://dribbble.com/)（设计灵感）
+- Shields.io：[https://shields.io/](https://shields.io/)（徽章）
+- Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
+- Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（好看的代码片段生成图）
+- Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
 - resume：[https://visiky.github.io/resume/?mode=edit](https://visiky.github.io/resume/?mode=edit)（在线简历生成器）
 - 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
 - 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
