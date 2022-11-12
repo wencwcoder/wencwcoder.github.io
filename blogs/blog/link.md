@@ -166,6 +166,7 @@ categories:
 - CSS 生成器 -- color.oulu.me：[https://color.oulu.me/](https://color.oulu.me/)（渐变背景）
 - CSS 生成器 -- uiGradients：[https://uigradients.com/#KyooTah](https://uigradients.com/#KyooTah)（渐变背景）
 - CSS 生成器 -- Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（图片裁剪）
+- Snyk：[https://snyk.io/advisor/](https://snyk.io/advisor/)（依赖性安全漏洞扫描工具）
 - Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
 - Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
 - DevDocs：[https://devdocs.io/](https://devdocs.io/)（Web 开发技术文档）
