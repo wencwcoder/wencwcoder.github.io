@@ -175,6 +175,7 @@ categories:
 - Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
 - Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（好看的代码片段生成图）
 - Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
+- TinyPNG：[https://tinypng.com/](https://tinypng.com/)（图片压缩）
 - resume：[https://visiky.github.io/resume/?mode=edit](https://visiky.github.io/resume/?mode=edit)（在线简历生成器）
 - 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
 - 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
