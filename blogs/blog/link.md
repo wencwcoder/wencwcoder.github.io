@@ -81,6 +81,9 @@ categories:
 - 网道：[https://wangdoc.com/](https://wangdoc.com/)（复杂的技术，简单的讲解）
 - 稀土开发者大会2021：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)
 - 前端面试题宝典：[https://fe.ecool.fun/](https://fe.ecool.fun/)
+- 前端面试题集锦：[https://fe.padding.me/#/](https://fe.padding.me/#/)
+- 前端面试题：[https://www.yuque.com/cuggz/interview](https://www.yuque.com/cuggz/interview)
+- 开发者客栈：[https://www.developers.pub/](https://www.developers.pub/)（帮助开发者面试的平台）
 - OSCHINA：[https://www.oschina.net/](https://www.oschina.net/)
 - HitUP：[https://hitup.wondertools.top/#/](https://hitup.wondertools.top/#/)（Find Top Things）
 - 编程导航：[https://www.code-nav.cn/](https://www.code-nav.cn/)（发现优质编程学习资源，鱼皮主导，力荐）
@@ -94,10 +97,7 @@ categories:
 - Medium：[https://medium.com/](https://medium.com/)（Where good ideas find you）
 - itnext：[https://itnext.io/](https://itnext.io/)
 - DEV Community：[https://dev.to/](https://dev.to/)（开发者社区，有点像掘金）
-- padding：[https://fe.padding.me/#/](https://fe.padding.me/#/)（前端面试题集锦 - by paddingme）
 - 1 LOC：[https://1loc.dev/](https://1loc.dev/)（In single line of code）
-- 开发者客栈：[https://www.developers.pub/](https://www.developers.pub/)（帮助开发者面试的平台）
-- 前端面试题：[https://www.yuque.com/cuggz/interview](https://www.yuque.com/cuggz/interview)
 
 
 
