@@ -192,4 +192,5 @@ SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 - uTools：[https://www.u.tools/](https://www.u.tools/)【uTools-3.0.3.exe】
 - Everything：[https://www.voidtools.com/zh-cn/](https://www.voidtools.com/zh-cn/)【Everything-1.4.1.1017.x64.zip】
 - Postman：[https://www.postman.com/downloads/](https://www.postman.com/downloads/)【Postman-win64-9.25.2-Setup.exe】
+- HeidiSQL：[https://www.heidisql.com/download.php](https://www.heidisql.com/download.php)【HeidiSQL_12.3_64_Portable.zip】
 
