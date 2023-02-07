@@ -70,6 +70,13 @@ module.exports = {
         "engineering/220318.md",
       ]
     },
+    {
+      title: "前端依赖库",
+      collapsable: true,
+      children: [
+        "dependency-library/230207.md",
+      ]
+    },
   ],
   "/blogs/backend/": [
     "",
