@@ -155,10 +155,20 @@ SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 - 配置
 
 ```markdown
-1. 插件 -- Proxy SwitchyOmega
+# 插件 -- Proxy SwitchyOmega
 情景模式 -> proxy -> sock5 / 127.0.0.1 / 7890
 情景模式 -> auto switch -> proxy | 导入在线规则列表 / 添加规则列表 / AutoProxy
 规则列表网址：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+```
+
+
+
+### VSCode
+
+- 插件
+
+```markdown
+
 ```
 
 
