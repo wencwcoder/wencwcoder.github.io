@@ -197,6 +197,7 @@ SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 - SunloginClient：[https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)【SunloginClient_12.6.0.48685_x64.exe】
 - Snipaste：[https://www.snipaste.com/download.html](https://www.snipaste.com/download.html)【Snipaste-2.7.3-Beta-x64.zip】
 - ScreenToGif：[https://www.screentogif.com/downloads](https://www.screentogif.com/downloads)【ScreenToGif.2.37.Setup.x64.msi】
+- LICEcap：[https://licecap.en.softonic.com/download](https://licecap.en.softonic.com/download)【licecap-1.32-installer_Hk-wcn1.exe】
 - PotPlayer：[https://potplayer.daum.net/](https://potplayer.daum.net/)【PotPlayerSetup64.exe】
 - Bandizip：[http://www.bandisoft.com/](http://www.bandisoft.com/)【BANDIZIP-SETUP-STD-X64.EXE】
 - uTools：[https://www.u.tools/](https://www.u.tools/)【uTools-3.0.3.exe】
