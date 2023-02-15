@@ -145,6 +145,7 @@ categories:
 - 别摸鱼导航：[https://biemoyu.com/#term-32](https://biemoyu.com/#term-32)（网站导航）
 - HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
 - HowToLiveLonger：[https://github.com/geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)（程序员延寿指南）
+- Programmerhumor：[https://programmerhumor.io/](https://programmerhumor.io/)（程序员笑话梗）
 
 
 
@@ -168,15 +169,20 @@ categories:
 - CSS 生成器 -- uiGradients：[https://uigradients.com/#KyooTah](https://uigradients.com/#KyooTah)（渐变背景）
 - CSS 生成器 -- Clippy：[https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)（图片裁剪）
 - Snyk：[https://snyk.io/advisor/](https://snyk.io/advisor/)（依赖性安全漏洞扫描工具）
+- Responsively：[https://responsively.app/](https://responsively.app/)（多设备调试）
+- LambdaTest：[https://www.lambdatest.com/](https://www.lambdatest.com/)（多平台测试）
 - Codelf：[https://unbug.github.io/codelf/](https://unbug.github.io/codelf/)（变量命名）
 - Can I Use：[https://caniuse.com/](https://caniuse.com/)（前端特性和兼容性查询）
 - DevDocs：[https://devdocs.io/](https://devdocs.io/)（Web 开发技术文档）
 - Dribbble：[https://dribbble.com/](https://dribbble.com/)（设计灵感）
 - Shields.io：[https://shields.io/](https://shields.io/)（徽章）
 - Getavataaars：[https://getavataaars.com/](https://getavataaars.com/)（卡通头像制作）
-- Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（好看的代码片段生成图）
+- Pfpmaker：[https://pfpmaker.com/](https://pfpmaker.com/)（头像制作）
+- Carbon：[https://carbon.now.sh/](https://carbon.now.sh/)（代码片段生成图）
+- Ray：[https://ray.so/](https://ray.so/)（代码片段生成图）
 - Squoosh：[https://squoosh.app/](https://squoosh.app/)（图片压缩）
 - TinyPNG：[https://tinypng.com/](https://tinypng.com/)（图片压缩）
+- Remove.bg：[https://www.remove.bg/zh](https://www.remove.bg/zh)（图片背景消除）
 - resume：[https://visiky.github.io/resume/?mode=edit](https://visiky.github.io/resume/?mode=edit)（在线简历生成器）
 - 千千秀字：[https://www.qqxiuzi.cn/daohang.htm](https://www.qqxiuzi.cn/daohang.htm)（字体特效、颠倒字母）
 - 小众软件：[https://www.appinn.com/](https://www.appinn.com/)（分享免费、小巧、实用、有趣、绿色的软件）
