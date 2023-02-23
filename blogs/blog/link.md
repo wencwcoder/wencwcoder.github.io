@@ -97,6 +97,7 @@ categories:
 - Medium：[https://medium.com/](https://medium.com/)（Where good ideas find you）
 - itnext：[https://itnext.io/](https://itnext.io/)
 - DEV Community：[https://dev.to/](https://dev.to/)（开发者社区，有点像掘金）
+- Codica：[https://www.codica.com/](https://www.codica.com/)（软件开发社区）
 - 1 LOC：[https://1loc.dev/](https://1loc.dev/)（In single line of code）
 
 
