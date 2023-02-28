@@ -147,6 +147,8 @@ categories:
 - HowToCook：[https://github.com/Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)（程序员在家做饭方法指南）
 - HowToLiveLonger：[https://github.com/geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)（程序员延寿指南）
 - Programmerhumor：[https://programmerhumor.io/](https://programmerhumor.io/)（程序员笑话梗）
+- Learn-english：[https://learn-english.dev/](https://learn-english.dev/)（程序员英语词汇宝典）
+- Ele-Types：[https://www.eletypes.com/](https://www.eletypes.com/)（练习打字）
 
 
 
