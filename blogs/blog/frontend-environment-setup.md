@@ -15,7 +15,9 @@ categories:
 
 
 
-## node
+## 环境
+
+### Node.js
 
 - 下载：[https://nodejs.org/en/download/](https://nodejs.org/en/download/)，LTS -- Windows Installer (.msi) -- 64-bit -- 【node-v16.16.0-x64.msi】。
 - 学习文档：[https://nqdeng.github.io/7-days-nodejs/](https://nqdeng.github.io/7-days-nodejs/)
@@ -58,9 +60,17 @@ cnpm –v
 
 9. 设置 npm 默认镜像
 默认镜像：https://registry.npmjs.org/
-npm config set registry https://registry.npmmirror.com
-npm get registry
+设置镜像：npm config set registry https://registry.npmmirror.com
+获取镜像：npm get registry
 临时设置：npm install @micro-design/cli --registry=https://registry.npmmirror.com
+```
+
+
+
+### npm
+
+```markdown
+
 ```
 
 
