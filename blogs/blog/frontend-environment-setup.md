@@ -67,11 +67,30 @@ cnpm –v
 
 
 
-### npm
+### 包管理工具
 
-```markdown
+```bash
+# Installation
+npm install -g cnpm
+npm install -g yarn
+npm install -g pnpm
 
+# registry Site
+https://registry.npmmirror.com
 ```
+
+|                  | npm                                                          | yarn                                                         | pnpm                                                         |
+| ---------------- | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 官网             | [https://www.npmjs.com/](https://www.npmjs.com/)             | [https://yarnpkg.com/](https://yarnpkg.com/)                 | [https://pnpm.io/](https://pnpm.io/)                         |
+| 查看源           | npm get registry                                             | yarn config get registry                                     | pnpm get registry                                            |
+| 更换源           | npm config set registry [Site](https://registry.npmmirror.com) | yarn config set registry [Site](https://registry.npmmirror.com) | pnpm config set registry [Site](https://registry.npmmirror.com) |
+| 初始化项目       | npm init -y                                                  | yarn init -y                                                 | pnpm init                                                    |
+| 安装项目全部依赖 | npm install                                                  | yarn install                                                 | pnpm install                                                 |
+| 安装依赖包       | npm install [package]                                        | yarn add [package]                                           | pnpm add [package]                                           |
+| 安装指定版本     | npm i [package]@[version]                                    | yarn add [package]@[version]                                 | pnpm add [package]@[version]                                 |
+| 安装全局依赖     | npm i -g [package]                                           | yarn global add [package]                                    | pnpm add -g [package]                                        |
+| 删除依赖         | npm uninstall [package]                                      | yarn remove [package]                                        | pnpm remove [package]                                        |
+| 删除全局依赖     | npm uninstall -g [package]                                   | yarn global remove [package]                                 | pnpm remove -g [package]                                     |
 
 
 
