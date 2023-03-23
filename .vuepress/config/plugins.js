@@ -14,13 +14,13 @@ module.exports = [
   ["vuepress-plugin-reading-progress"],
   // vuepress 插件
   // 2022-09-13：效果不太好；2023.03.23：重新设置
-  [
-    "vuepress-plugin-code-copy",
-    {
-      successText: 'Copied!',
-      staticIcon: true // 复制图标始终可见，false 时悬浮可见
-    }
-  ],
+  // [
+  //   "vuepress-plugin-code-copy",
+  //   {
+  //     successText: 'Copied!',
+  //     staticIcon: false // 复制图标：true 始终可见，false 悬浮可见
+  //   }
+  // ],
   [
     "vuepress-plugin-cursor-effects",
     {
