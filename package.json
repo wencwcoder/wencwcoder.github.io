@@ -4,7 +4,8 @@
   "author": "wen",
   "scripts": {
     "dev": "vuepress dev . --host \"localhost\"",
-    "build": "vuepress build ."
+    "build": "vuepress build .",
+    "deploy": "bash scripts/deploy.sh"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-bgm-player": "^1.1.3",
