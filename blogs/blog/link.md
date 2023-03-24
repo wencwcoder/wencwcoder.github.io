@@ -108,8 +108,8 @@ categories:
 - MDN Web Docs：[https://developer.mozilla.org/zh-CN/](https://developer.mozilla.org/zh-CN/)
 - Node.js：[https://nodejs.org/en/](https://nodejs.org/en/)、[http://nodejs.cn/](http://nodejs.cn/)
 - Arco Design：[https://arco.design/](https://arco.design/)（企业级产品的完整设计和开发解决方案）
-- React：[https://legacy.reactjs.org/](https://legacy.reactjs.org/)、[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)、[https://react.docschina.org/](https://react.docschina.org/)（旧地址）
-- React：[https://reactjs.org/](https://reactjs.org/)、[https://react.dev/](https://react.dev/)、[https://react.jscn.org/](https://react.jscn.org/)
+- React：[https://legacy.reactjs.org/](https://legacy.reactjs.org/)、[https://react.docschina.org/](https://react.docschina.org/)、[https://zh-hans.reactjs.org/](https://zh-hans.reactjs.org/)（旧地址）
+- React：[https://react.dev/](https://react.dev/)、[https://react.jscn.org/](https://react.jscn.org/)
 - Vue2.x：[https://v2.cn.vuejs.org/v2/guide/index.html](https://v2.cn.vuejs.org/v2/guide/index.html)
 - Vue3.x：[https://vuejs.org/](https://vuejs.org/)、[https://cn.vuejs.org/](https://cn.vuejs.org/)
 - Vite：[https://vitejs.dev/](https://vitejs.dev/)、[https://cn.vitejs.dev/](https://cn.vitejs.dev/)（下一代前端开发与构建工具）
