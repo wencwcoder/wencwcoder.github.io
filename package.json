@@ -14,7 +14,7 @@
     "js-yaml": "^3.14.0",
     "moment": "^2.29.1",
     "vuepress": "1.9.7",
-    "vuepress-theme-reco": "1.6.16",
+    "vuepress-theme-reco": "1.6.17",
     "vuepress-plugin-code-copy": "^1.0.6",
     "vuepress-plugin-cursor-effects": "^1.0.2",
     "vuepress-plugin-dynamic-title": "^1.0.0",
