@@ -81,7 +81,7 @@ tags:
 
 
 
-### 音乐播放器2.0
+### 音乐播放器2
 
 - `cnpm i -D vuepress-plugin-meting`
 
@@ -167,7 +167,7 @@ tags:
 
 
 
-### 代码复制
+### 代码复制 [已弃用]
 
 - `cnpm i -D vuepress-plugin-nuggets-style-copy`
 
@@ -182,9 +182,9 @@ tags:
 
 
 
-### 代码复制2.0
+### 代码复制2
 
-- `cnpm i -D vuepress-plugin-nuggets-style-copy`
+- `cnpm i -D vuepress-plugin-code-copy`
 
 ```javascript
 ["vuepress-plugin-code-copy", true]
