@@ -15,7 +15,7 @@ tags:
 
 
 
-## Guide
+## 1. Guide
 
 ### Markdown Extensions
 
@@ -145,6 +145,15 @@ export default config
 
 
 
+### Asset Handling
+
+```markdown
+Referencing Static Assets
+./docs/src/public/imgs/avatar.png  --> ![An image](/imgs/avatar.png)
+```
+
+
+
 ### Frontmatter
 
 [https://vitepress.dev/guide/frontmatter](https://vitepress.dev/guide/frontmatter)
@@ -157,8 +166,97 @@ export default config
 
 
 
+### Using a Custom Theme
+
+[https://vitepress.dev/guide/custom-theme](https://vitepress.dev/guide/custom-theme)
 
 
 
+## 2. Reference
 
-## Reference
+### Site Config
+
+```javascript
+// .vitepress/config.ts
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  title: "My Blog",
+  // titleTemplate: 'Custom Suffix',
+  description: "A VitePress Siteee",
+  head: [
+    [
+      'link',
+      {
+        rel: "icon",
+        href: "/imgs/favicon.ico"
+      }
+    ]
+  ],
+  // base: '/repo/', // https://foo.github.io/repo/
+  cleanUrls: true,
+  srcDir: './src',
+  outDir: './.vitepress/dist',  // '../dist'
+  // cacheDir: './.vitepress/cache',
+  lastUpdated: true,
+  // Markdown
+  markdown: {
+    theme: 'material-theme-palenight', // https://github.com/shikijs/shiki/blob/main/docs/themes.md#all-themes
+    lineNumbers: true
+  },
+  // Vite
+  // vite: {
+  //   // Vite config options
+  // },
+  // Vue
+  // vue: {
+  //   // @vitejs/plugin-vue options
+  // }
+})
+```
+
+
+
+### Frontmatter Config
+
+[https://vitepress.dev/reference/frontmatter-config](https://vitepress.dev/reference/frontmatter-config)
+
+[https://jekyllrb.com/docs/front-matter/](https://jekyllrb.com/docs/front-matter/)
+
+```yaml
+---
+title: VitePress
+titleTemplate: Vite & Vue powered static site generator
+description: VitePress
+head:
+  - - meta
+    - name: description
+      content: hello
+  - - meta
+    - name: keywords
+      content: super duper SEO
+---
+```
+
+```yaml
+仅在使用默认主题时适用
+layout: doc | home | page
+aside: boolean | 'left'
+outline: number | [number, number] | 'deep' | false
+
+---
+layout: home
+hero: 
+features: 
+aside: true
+outline: 2
+---
+```
+
+```yaml
+Common Config
+---
+title: VitePress
+---
+```
+
