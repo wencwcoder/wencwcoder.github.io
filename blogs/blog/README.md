@@ -27,6 +27,8 @@ tags:
 
 - [vuepress-theme-reco-plugins](/blogs/blog/vuepress/vuepress-theme-reco-plugins.md)
 
+- [vitepress](/blogs/blog/vuepress/vitepress.md)
+
 
 
 ## 文章阅读

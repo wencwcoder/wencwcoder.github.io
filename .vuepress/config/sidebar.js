@@ -100,6 +100,7 @@ module.exports = {
         "vuepress/vuepress.md",
         "vuepress/vuepress-theme-reco.md",
         "vuepress/vuepress-theme-reco-plugins.md",
+        "vuepress/vitepress.md",
       ]
     },
     {
