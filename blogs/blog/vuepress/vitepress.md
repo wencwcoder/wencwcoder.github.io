@@ -243,6 +243,8 @@ head:
 layout: doc | home | page
 aside: boolean | 'left'
 outline: number | [number, number] | 'deep' | false
+lastUpdated: boolean
+editLink: boolean
 
 ---
 layout: home
@@ -250,6 +252,8 @@ hero:
 features: 
 aside: true
 outline: 2
+lastUpdated: true
+editLink: true
 ---
 ```
 
@@ -259,4 +263,24 @@ Common Config
 title: VitePress
 ---
 ```
+
+
+
+### Default Theme Config
+
+```javascript
+// .vitepress/config.ts
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  // Theme related configurations.
+  themeConfig: {
+    
+  }
+})
+```
+
+
+
+
 
