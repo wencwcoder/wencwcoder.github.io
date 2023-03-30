@@ -275,12 +275,131 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   // Theme related configurations.
   themeConfig: {
-    
+    // https://vitepress.dev/reference/default-theme-config
+    logo: '/imgs/favicon.ico', // in nav bar
+    siteTitle: 'Hello World', // in nav bar, Type: string | false
+    nav: NavItem[],
+    sidebar: Sidebar[],
+    aside: true,
+    outline: [2,4],
+    outlineTitle: 'On this page',
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+      { icon: { svg: 'svg' }, link: 'https://github.com/vuejs/vitepress' }
+    ],
+    footer: {
+      message: 'Released under the MIT License.',
+      copyright: 'Copyright © 2019-present Evan You'
+    },
+    // editLink: {
+    //   pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
+    //   text: 'Edit this page on GitHub'
+    // }
+    lastUpdatedText: 'Last updated',
+    // algolia: AlgoliaSearch,
+    // carbonAds: CarbonAdsOptions,
+    docFooter: {
+      prev: 'Previous page',
+      next: 'Next page'
+    },
+    darkModeSwitchLabel: 'Appearance', // only displayed in the mobile view
+    sidebarMenuLabel: 'Menu', // only displayed in the mobile view
+    returnToTopLabel: 'Return to top', // only displayed in the mobile view
+    // langMenuLabel: 'Change language'
   }
 })
 ```
 
+```javascript
+// nav
+nav: [
+  { text: 'Home', link: '/' },
+  { text: 'Example', link: '/markdown' },
+  {
+    text: 'Dropdown Menu',
+    items: [
+      { text: 'Item A', link: '/markdown' },
+      { text: 'Item B', link: '/markdown' },
+      { text: 'Github A', link: 'https://github.com/vuejs/vitepress' },
+      { text: 'Github B', link: 'https://github.com/vuejs/vitepress' }
+    ]
+  },
+  {
+    text: 'Dropdown Menu Group',
+    items: [
+      {
+        items: [
+          { text: 'Item A', link: '/markdown' },
+          { text: 'Item B', link: '/markdown' }
+        ]
+      },
+      {
+        text: 'Github',
+        items: [
+          { text: 'Github A', link: 'https://github.com/vuejs/vitepress' },
+          { text: 'Github B', link: 'https://github.com/vuejs/vitepress' }
+        ]
+      }
+    ]
+  }
+]
+```
 
+```javascript
+// sidebar -- array
+sidebar: [
+  {
+    text: 'Guide',
+    link: '/markdown'
+  },
+  {
+    text: 'Examples',
+    collapsed: true,
+    items: [
+      { text: 'Markdown A', link: '/markdown' },
+      { text: 'Markdown B', link: '/markdown' }
+    ]
+  },
+  {
+    text: 'Github',
+    collapsed: true,
+    items: [
+      { text: 'Github A', link: 'https://github.com/vuejs/vitepress' },
+      { text: 'Github B', link: 'https://github.com/vuejs/vitepress' }
+    ]
+  }
+]
 
-
+// sidebar -- object
+sidebar: {
+  '/guide/': [
+    {
+      text: 'Guide',
+      items: [
+        { text: 'Index', link: '/guide/' },
+        { text: 'One', link: '/guide/one' },
+        { text: 'Two', link: '/guide/two' },
+        { 
+          text: 'Examples',
+          collapsed: true,
+          items: [
+            { text: 'One', link: '/guide/one' },
+            { text: 'Two', link: '/guide/two' }
+          ]
+        }
+      ]
+    }
+  ],
+  '/config/': [
+    {
+      text: 'Config',
+      items: [
+        { text: 'Index', link: '/config/' },
+        { text: 'Three', link: '/config/three' },
+        { text: 'Four', link: '/config/four' }
+      ]
+    }
+  ]
+}
+```
 
