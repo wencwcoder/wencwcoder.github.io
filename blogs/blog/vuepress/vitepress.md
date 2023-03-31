@@ -255,6 +255,42 @@ outline: 2
 lastUpdated: true
 editLink: true
 ---
+
+---
+hero:
+  name: My Blog
+  text: "A VitePress Site"
+  tagline: My great project tagline
+  # image:
+  #   src: /imgs/avatar.png
+  #   alt: avatar
+  actions:
+    - theme: brand
+      text: Markdown Examples
+      link: /markdown-examples
+    - theme: alt
+      text: API Examples
+      link: /api-examples
+    - theme: alt
+      text: View on GitHub
+      link: https://github.com/vuejs/vitepress
+
+features:
+  - icon: 🛠️
+    title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      src: /imgs/avatar.png
+    title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon:
+      dark: /imgs/avatar.png
+      light: /imgs/avatar.png
+    title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    link: https://github.com/vuejs/vitepress
+    linkText: GitHub
+---
 ```
 
 ```yaml
@@ -402,4 +438,37 @@ sidebar: {
   ]
 }
 ```
+
+
+
+### Badge
+
+徽章可让您为标题添加状态。例如，指定部分的类型或支持的版本可能很有用。您可以使用全局可用的 `Badge` 组件。
+
+```html
+### Title <Badge type="info" text="default" />
+### Title <Badge type="tip" text="^1.9.0" />
+### Title <Badge type="warning" text="beta" />
+### Title <Badge type="danger" text="caution" />
+
+### Title <Badge type="info">custom element</Badge>
+```
+
+
+
+### Team Page
+
+[https://vitepress.dev/reference/default-theme-team-page](https://vitepress.dev/reference/default-theme-team-page)
+
+
+
+### Search
+
+[https://vitepress.dev/reference/default-theme-search](https://vitepress.dev/reference/default-theme-search)
+
+
+
+### Carbon Ads
+
+[https://vitepress.dev/reference/default-theme-carbon-ads](https://vitepress.dev/reference/default-theme-carbon-ads)
 
