@@ -194,10 +194,55 @@ SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 
 ### VSCode
 
-- 插件
+- settings.json
+
+```json
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.tabSize": 2,
+    "editor.inlineSuggest.enabled": true,
+    "files.eol": "\n"
+}
+```
+
+- 插件：[https://marketplace.visualstudio.com/vscode](https://marketplace.visualstudio.com/vscode)
 
 ```markdown
-
+Auto Close Tag
+Auto Rename Tag
+Bundle Size
+change-case
+[❌] ChatGPT中文版
+Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code
+CodeGeeX
+CodeSnap
+CSS Peek
+DotENV
+[❌] EditorConfig for VS Code
+ESLint
+Git History
+GitHub Copilot
+GitLens — Git supercharged
+JavaScript (ES6) code snippets
+JavaScript Booster
+Live Server
+Mintlify Doc Writer for Python, JavaScript, TypeScript, C++, PHP, Java, C#, Ruby & more
+npm Intellisense
+One Dark Pro
+open in browser
+Path Intellisense
+Prettier - Code formatter
+[❌] Settings Sync
+Stylelint
+Svg Preview
+Time Master
+TypeScript Vue Plugin (Volar)
+Vetur
+vscode-icons
+Vue Language Features (Volar)
 ```
 
 
@@ -226,6 +271,7 @@ SSH -- SSH client -- D:\Git\usr\bin\ssh.exe
 - SunloginClient：[https://sunlogin.oray.com/download?categ=personal](https://sunlogin.oray.com/download?categ=personal)【SunloginClient_12.6.0.48685_x64.exe】
 - Snipaste：[https://www.snipaste.com/download.html](https://www.snipaste.com/download.html)【Snipaste-2.7.3-Beta-x64.zip】
 - ScreenToGif：[https://www.screentogif.com/downloads](https://www.screentogif.com/downloads)【ScreenToGif.2.37.Setup.x64.msi】
+- OBS：[https://obsproject.com/download](https://obsproject.com/download)【OBS-Studio-29.0.2-Full-x64.zip】
 - LICEcap：[https://licecap.en.softonic.com/download](https://licecap.en.softonic.com/download)【licecap-1.32-installer_Hk-wcn1.exe】
 - PotPlayer：[https://potplayer.daum.net/](https://potplayer.daum.net/)【PotPlayerSetup64.exe】
 - Bandizip：[http://www.bandisoft.com/](http://www.bandisoft.com/)【BANDIZIP-SETUP-STD-X64.EXE】
