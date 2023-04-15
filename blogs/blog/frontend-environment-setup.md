@@ -217,7 +217,7 @@ Bundle Size
 change-case
 [❌] ChatGPT中文版
 Chinese (Simplified) (简体中文) Language Pack for Visual Studio Code
-CodeGeeX
+[❌] CodeGeeX
 CodeSnap
 CSS Peek
 DotENV
@@ -226,6 +226,7 @@ ESLint
 Git History
 GitHub Copilot
 GitLens — Git supercharged
+Image preview
 JavaScript (ES6) code snippets
 JavaScript Booster
 Live Server
