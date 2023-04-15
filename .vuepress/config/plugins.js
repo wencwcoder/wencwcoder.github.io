@@ -106,14 +106,6 @@ module.exports = [
           artist: "莫文蔚",
           url: "https://github.com/wencwcoder/learning-library/raw/master/musics/%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%20-%20%E8%8E%AB%E6%96%87%E8%94%9A.mp3",
           cover: "https://raw.githubusercontent.com/wencwcoder/learning-library/master/musics/%E8%BF%99%E4%B8%96%E7%95%8C%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%20-%20%E8%8E%AB%E6%96%87%E8%94%9A.png",
-        },
-        // 网络文件示例 -- 有道云笔记
-        {
-          name: "今天",
-          artist: "刘德华",
-          url: "/bgm-player/彩虹.mp3",
-          url: "https://bucket-ynote-online-cdn.note.youdao.com/wencw15523085776%40163.com%2F83BC35EC731E452F806ED13A6B251281?download=%E5%88%98%E5%BE%B7%E5%8D%8E%20-%20%E4%BB%8A%E5%A4%A9.mp3&Signature=ZZ4Bt%2BuLbmHXCB6YjTVTycz8wYOOuiwX6%2FeKUYeJ2vc%3D&Expires=1679575146&NOSAccessKeyId=e7d1acab859342789faa85a4b0cb4c83",
-          cover: "https://y.qq.com/music/photo_new/T002R300x300M000001EOjJJ4ZlZef_3.jpg?max_age=2592000",
         }
       ],
       position: {
