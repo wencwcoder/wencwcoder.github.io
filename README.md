@@ -1,5 +1,2 @@
 # wencwcoder.github.io
-my test：
-
-- 2021.01.26
-
+Self-introduction and project navigation.
